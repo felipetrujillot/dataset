@@ -1,26 +1,3 @@
-chunks/chunk_105.wav|manteneɾte infoɾmaðo soβɾe los konθepːtos finanθjeɾos i βuskaɾ apɾendeɾ kontinwamente es fundamental
-chunks/chunk_124.wav|rekonoθe i aθepːta tus eroɾes finanθjeɾos sin xuθɣaɾte ðemasjaðo
-chunks/chunk_165.wav|pweðo apɾendeɾ a manexaɾ mi ðineɾo rekonoθe ke la xestjon finanθjeɾa es una aβiliðad ke se pweðe apɾendeɾ i mexoɾaɾ kon el tjempo
-chunks/chunk_211.wav|aɣɾupa tus ɣastos en kateɣoɾias paɾa teneɾ una βisjon mas klaɾa ðe ðonde βa tu ðineɾo
-chunks/chunk_293.wav|la poɾtaβiliðad ðe una aplikaθjon moβil o la estɾuktuɾa ðetaʎaða ðe una oxa ðe kalkulo lo impoɾtante es ke mantɛŋɡas um pɾesupwesto aktwaliθaðo i seas konsθjɛnte ðe tus aβitos finanθjeɾos
-chunks/chunk_435.wav|ofɾeθen diβeɾsifikaθjon i son aðekwaðos paɾa los imbeɾsoɾes ke pɾefjeɾen no xestjonaɾ sus pɾopjas imbeɾsjones
-chunks/chunk_577.wav|uno
-chunks/chunk_678.wav|los aʊtoɾes a menuðo kompaɾten sus pɾopjas ekspeɾjɛnθjas i lekθjones apɾendiðas
-chunks/chunk_804.wav|konsiðeɾaðo uno ðe los mexoɾes liβɾos soβɾe imbeɾsjones enseɲa komo imbeɾtiɾ en la βolsa ðe βaloɾes
-chunks/chunk_829.wav|espeɾamos ke esta ɣia te aʝa pɾopoɾθjonaðo las eramjɛntas i la inspiɾaθjon neθesaɾjas paɾa tomaɾ el kontɾol ðe tus finanθas peɾsonales
-chunks/chunk_824.wav|kaða pekeɲa akθjon ke tomes oɪ pweðe teneɾ un impakto siɡnifikatiβo en tu futuɾo finanθjeɾo
-chunks/chunk_763.wav|poɾ ke ese iðjota es riko i ʝo no
-chunks/chunk_764.wav|te roβeɾt ʃami
-chunks/chunk_765.wav|eksploɾa la klaβe ðe la rikeθa amiɣaβle i komo rompeɾ kon las βjexas reɣlas paɾa aθeɾse miʎonaɾjo
-chunks/chunk_766.wav|tɾeɪntaiuno
-chunks/chunk_767.wav|baka puɾpuɾa ðe set ɣodðaɾd
-chunks/chunk_768.wav|enseɲa komo ðestakaɾ en el meɾkaðo meðjante una mentaliðad tɾansfoɾmaðoɾa en maɾketiŋ i pɾoðuktos
-chunks/chunk_769.wav|la ɣananθja es
-chunks/chunk_77.wav|um pɾestamo estuðjantil ke aβia tomaðo paɾa kompletaɾ sus estuðjos i un salðo en su taɾxeta ðe kɾeðito ke usaβa paɾa kompɾaɾ poɾ inteɾnet
-chunks/chunk_770.wav|pɾimeɾo ðe mike mitʃalowikθ konsexos pɾaktikos i estuðjos ðe kasos paɾa ɣanaɾ ðineɾo en los neɣoθjos ðe maneɾa efektiβa tɾeɪntaitɾes ðineɾo i konθjɛnθja a kjen siɾβe nwestɾo ðineɾo
-chunks/chunk_771.wav|de xoan antoni mele
-chunks/chunk_772.wav|refleksjona soβɾe la impoɾtanθja ðe nwestɾos aβitos ðe konsumo i su impakto finanθjeɾo i soθjal
-chunks/chunk_773.wav|tɾeɪntaikwatɾo
 chunks/chunk_774.wav|animal spiɾits te xeoɾxe akeɾlof i roβeɾt stʃiʎeɾ
 chunks/chunk_775.wav|analiθa la imfluɛnθja ðe la sikoloxia umana en la ekonomia i su impoɾtanθja en el kapitalismo ɣloβal
 chunks/chunk_776.wav|tɾeɪntaiθinko
