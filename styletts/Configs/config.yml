@@ -6,7 +6,7 @@ device: "cuda"
 multigpu: false
 epochs_1st: 200 # number of epochs for first stage training
 epochs_2nd: 100 # number of peochs for second stage training
-batch_size: 32
+batch_size: 6
 pretrained_model: ""
 second_stage_load_pretrained: false # set to true if the pre-trained model is for 2nd stage
 load_only_params: false # set to true if do not want to load epoch numbers and optimizer parameters
