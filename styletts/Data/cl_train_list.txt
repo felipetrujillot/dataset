@@ -198,3 +198,637 @@ chunks/chunk_275.wav|pweðes kɾeaɾ ɣɾafikos foɾmulas i taβlas ke se aðap�
 chunks/chunk_276.wav|dos
 chunks/chunk_277.wav|analisis pɾofum
 chunks/chunk_278.wav|kon eramjɛntas komo eksθel o ɣuɣəl ʃeets pweðes realiθaɾ un analisis pɾofundo ðe tus iŋɡɾesos i ɣastos iðentifikando tendɛnθjas i aɾeas ðe mexoɾ
+chunks/chunk_279.wav|tɾes
+chunks/chunk_28.wav|ke son las finanθas peɾsonal
+chunks/chunk_280.wav|oɾɣaniθaθjon i akθesiβiliðad pweðes oɾɣaniθaɾ tus ðatos ðe maneɾa klaɾa i estɾuktuɾaða i ɣwaɾðaɾ tus oxas ðe kalkulo en la nuβe paɾa akθeðeɾ a eʎas ðesðe kwalkjeɾ ðispositiβo kon koneksjon a inteɾnet
+chunks/chunk_281.wav|komo implementaɾ esta estɾatexja
+chunks/chunk_282.wav|uno
+chunks/chunk_283.wav|aβɾe una nweβa oxa ðe kalkulo en eksθel o ɣuɣəl ʃeets ðos
+chunks/chunk_284.wav|kɾea kolumnas paɾa tus kateɣoɾias ðe iŋɡɾesos i ɣastos i filas paɾa kaða tɾansakθjon
+chunks/chunk_285.wav|tɾes usa foɾmulas paɾa sumaɾ tus iŋɡɾesos i ɣastos i kalkulaɾ salðos i poɾθentaxes
+chunks/chunk_286.wav|kwatɾo
+chunks/chunk_287.wav|aktwaliθa tu oxa ðe kalkulo reɣulaɾmente i utiliθa ɣɾafikos i taβlas paɾa βiswaliθaɾ tu pɾoɣɾeso finanθjeɾo
+chunks/chunk_288.wav|en kaso ðe no saβeɾ komo funθjonan estos pɾoɣɾamas te rekomjɛndo ke βuskes tutoɾjales en dʒow tuβe
+chunks/chunk_289.wav|en esta platafoɾma aɪ θjɛntos ðe rekuɾsos ɣɾatwitos ke te peɾmitiɾan dominaɾ los fundamɛntos esenθjales em poko tjempo
+chunks/chunk_29.wav|las finanθas peɾsonales son el manexo ðe tus iŋɡɾesos ɣastos aoros e imbeɾsjones a lo laɾɣo ðel tjempo
+chunks/chunk_290.wav|finalmente rekweɾða ke kaða una ðe estas estɾatexjas tjene sus pɾopjas βentaxas
+chunks/chunk_291.wav|i pweðe ser la aðekwaða paɾa ti ðependjɛndo ðe tus pɾefeɾɛnθjas i neθesiðaðes
+chunks/chunk_292.wav|ʝa sea ke elixas la simpliθiðad ðe un kwaðeɾno
+chunks/chunk_293.wav|la poɾtaβiliðad ðe una aplikaθjon moβil o la estɾuktuɾa ðetaʎaða ðe una oxa ðe kalkulo lo impoɾtante es ke mantɛŋɡas um pɾesupwesto aktwaliθaðo i seas konsθjɛnte ðe tus aβitos finanθjeɾos
+chunks/chunk_294.wav|elixe la estɾatexja ke mas te kombɛŋɡa i komjɛnθa a tomaɾ el kontɾol ðe tus finanθas oɪ mismo
+chunks/chunk_295.wav|kapitulo tɾes manexo ðe ðeʊðas en este kapitulo aβoɾðaɾemos el manexo ðe las ðeʊðas un aspekto kɾuθjal ðe las finanθas peɾsonales la ðeʊða pweðe ser una eramjɛnta util si se xestjona aðekwaðamente peɾo tambjem pweðe kombeɾtiɾse en una kaɾɣa aβɾumaðoɾa si no se kontɾola
+chunks/chunk_296.wav|apɾendeɾemos a ðifeɾenθjaɾ entɾe ðeʊðas βwenas i malas estɾatexjas paɾa eliminaɾlas i komo eβitaɾ kaeɾ en la tɾampa ðe la ðeʊða
+chunks/chunk_297.wav|a kontinwaθjon te kwɛnto una istoɾja ke te seɾβiɾa ðe exemplo paɾa eβitaɾ ðeʊðas inneθesaɾjas
+chunks/chunk_298.wav|kaɾlos eɾa un xoβen entusjasta ke βiβia en una θjuðad βiβɾante
+chunks/chunk_299.wav|reθjeŋ ɡɾaðwaðo ðe la uniβeɾsiðad konsiɣjo um bwen tɾaβaxo en una empɾesa ðe teknoloxia
+chunks/chunk_3.wav|la eðukaθjon finanθjeɾa es una eramjɛnta poðeɾosa i akθesiβle paɾa toðos i xuntos βamos a ðeskuβɾiɾlo
+chunks/chunk_30.wav|es la administɾaθjon de tu ðineɾo ðe maneɾa ke pweðas alkanθaɾ tus oβxetiβos finanθjeɾos i manteneɾ una estaβiliðað ekonomika
+chunks/chunk_300.wav|emoθjonaðo poɾ su nweβo swelðo i su independɛnθja kaɾlos ðeθiðjo ke eɾa oɾa ðe ðisfɾutaɾ ðe la βiða
+chunks/chunk_301.wav|komenθo a ɣastaɾ sim pensaɾ ðemasjaðo en las konsekwɛnθjas i pɾonto las ðeʊðas empeθaɾon a akumulaɾse
+chunks/chunk_302.wav|kaɾlos keɾia un estilo ðe βiða ke reflexaɾa su eksito
+chunks/chunk_303.wav|kompɾo un kotʃe nweβo kon um pɾestamo a laɾɣo plaθo amweβlo su apaɾtamɛnto kon mweβles ðe luxo a kɾeðito i empeθo a saliɾ a restaʊɾantes kaɾos i a aθeɾ βjaxes fɾekwɛntes
+chunks/chunk_304.wav|aðemas utiliθaβa su taɾxeta ðe kɾeðito paɾa kuβɾiɾ kwalkjeɾ ɣasto aðiθjonal sim pɾeokupaɾse poɾ el salðo ke iβa akumulando
+chunks/chunk_305.wav|kaða mes kaɾlos paɣaβa solo el minimo ðe su taɾxeta ðe kɾeðito sin daɾse kwɛnta ðe komo los inteɾeses iβan aʊmentando su ðeʊða
+chunks/chunk_306.wav|a meðiða ke sus ɣastos kɾeθian sus iŋɡɾesos paɾeθian kaða βeθ mas insufiθjɛntes
+chunks/chunk_307.wav|un dia kaɾlos reθiβjo una ʎamaða ðel βanko
+chunks/chunk_308.wav|su kwɛnta estaβa soβɾexiɾaða i tenia ke paɣaɾ kaɾɣos poɾ retɾaso al reβisaɾ sus finanθas se ðjo kwɛnta ðe ke sus ðeʊðas estaβan fweɾa ðe kontɾol
+chunks/chunk_309.wav|tenia pɾestamos estuðjantiles el pɾestamo ðel kotʃe la ðeʊða ðe la taɾxeta ðe kɾeðito i um pɾestamo peɾsonal ke aβia tomaðo paɾa um bjaxe impulsiβo
+chunks/chunk_31.wav|al aβlaɾ ðe finanθas peɾsonales nos refeɾimos a komo una peɾsona o familja manexa su ðineɾo lo aora i lo imbjeɾte
+chunks/chunk_310.wav|kaɾlos komenθo a sentiɾ el peso ðe sus ðeʊða
+chunks/chunk_311.wav|las ʎamaðas ðe los koβɾaðoɾes se βolβjeɾom fɾekwɛntes
+chunks/chunk_312.wav|i el estɾes finanθjeɾo empeθo a afektaɾ su saluð i su ðesempeɲo en el tɾaβaxo
+chunks/chunk_313.wav|no poðia ðoɾmiɾ βjen i sjempɾe estaβa pɾeokupaðo poɾ komo iβa a paɣaɾ sus kwɛntas el estɾes ðe las ðeʊðas komenθo a impaktaɾ la βiða peɾsonal ðe kaɾlos sus relaθjones se βjeɾon afektaðas poɾke sjempɾe estaβa pɾeokupaðo i ðe mal umoɾ
+chunks/chunk_314.wav|empeθo a eβitaɾ saliɾ kon amiɣos poɾke no poðia peɾmitiɾse ɣastaɾ mas ðineɾo
+chunks/chunk_315.wav|su rendimjɛnto en el tɾaβaxo tambjen se resintjo i su xefe le aðβiɾtjo ke ðeβia mexoɾaɾ
+chunks/chunk_316.wav|kaɾlos se ðjo kwɛnta ðe ke estaβa atɾapaðo en un θiklo βiθjoso
+chunks/chunk_317.wav|kaða βeθ ke intentaβa saliɾ ðe una ðeʊða otɾa paɾeθia empeoɾaɾ
+chunks/chunk_318.wav|sentia ke no tenia kontɾol soβɾe su βiða i ke estaβa peɾðjɛndo toðo poɾ lo ke aβia tɾaβaxaðo tan duɾo
+chunks/chunk_319.wav|un dia ðespwes ðe reθiβiɾ una kaɾta ðe aðβeɾtɛnθja soβɾe la posiβle peɾðiða ðe su kotʃe ðeβiðo a los paɣos atɾasaðos kaɾlos ðeθiðjo ke eɾa oɾa ðe aθeɾ un kambjo ðɾastiko
+chunks/chunk_32.wav|definiθjon i konθepːtos βasikos las finanθas peɾsonales aβaɾkan una βaɾjeðad ðe aɾeas inkluʝɛndo uno iŋɡɾeso
+chunks/chunk_320.wav|saβia ke no poðia seɣiɾ βiβjɛndo ðe esa maneɾa i ke neθesitaβa tomaɾ el kontɾol ðe sus finanθas
+chunks/chunk_321.wav|kaɾlos komenθo a imbestiɣaɾ soβɾe la xestjon de ðeʊðas i se ðjo kwɛnta ðe ke neθesitaβa kambjaɾ su mentaliðað i aβitos ðe ɣasto
+chunks/chunk_322.wav|iθo um plam paɾa saliɾ ðe ðeʊðas komenθando poɾ listaɾ toðas sus ðeʊðas i pɾioɾiθaɾlas
+chunks/chunk_323.wav|se kompɾometjo a no tomaɾ mas ðeʊðas i a βiβiɾ ðɛntɾo ðe sus posiβiliðaðes
+chunks/chunk_324.wav|kaɾlos empeθo a seɣiɾ um pɾesupwesto stɾikt
+chunks/chunk_325.wav|rekoɾtando ɣastos inneθesaɾjos i ðestinando la maʝoɾ paɾte ðe sus iŋɡɾesos a paɣaɾ sus ðeʊðas
+chunks/chunk_326.wav|busko estɾatexjas paɾa akaβaɾ kon las ðeʊðas
+chunks/chunk_327.wav|i poɾ fin kompɾendjo ke ðeβia entendeɾ komo funθjonaβan las ðeʊðas
+chunks/chunk_328.wav|antes ðe poðeɾ ðerotaɾlas poɾ kompleto
+chunks/chunk_329.wav|i eso es lo ke te eksplikaɾe a kontinwaθjon
+chunks/chunk_33.wav|toðo el ðineɾo ke reθiβes ʝa sea a tɾaβes ðe un salaɾjo βonos inteɾeses alkileɾes u otɾas fwɛntes
+chunks/chunk_330.wav|eβitaɾemos ke kaɾlos sea un reflexo tuʝo i aɾemos toðo lo posiβle paɾa ke sepas aθeɾ un manexo aðekwaðo ðe este konθepːto finanθjeɾo
+chunks/chunk_331.wav|kompɾendjɛndo la ðeʊða
+chunks/chunk_332.wav|antes ðe ke pweðas manexaɾ tus ðeʊðas es impoɾtante kompɾendeɾ ke es la ðeʊða i komo funθjona
+chunks/chunk_333.wav|la ðeʊða es el ðineɾo ke ðeβes a otɾa peɾsona o instituθjon komo um banko o um pɾestamista
+chunks/chunk_334.wav|eksisten difeɾɛntes tipos ðe ðeʊðas i no toðas son iɣwales tipos ðe ðeʊða
+chunks/chunk_335.wav|bwenas βeɾsus malas ðeʊða
+chunks/chunk_336.wav|bwenas son akeʎas ke se utiliθam paɾa adkiɾiɾ aktiβos ke pweðen aʊmentaɾ ðe βaloɾ o xeneɾaɾ iŋɡɾesos
+chunks/chunk_337.wav|exemplos inkluʝem pɾestamos estuðjantiles i pɾestamos ipotekaɾjos
+chunks/chunk_338.wav|deʊðas malas
+chunks/chunk_339.wav|son akeʎas ke se utiliθam paɾa kompɾaɾ βjenes o seɾβiθjos ke no xeneɾan iŋɡɾesos ni aʊmɛntan de βaloɾ
+chunks/chunk_34.wav|dos ɣastos toðo el ðineɾo ke ɣastas inkluʝɛndo neθesiðaðes komo komiða βiβjɛnda i seɾβiθjos i ðeseos komo entɾetenimjɛnto i βjaxe
+chunks/chunk_340.wav|exemplos inkluʝen taɾxetas ðe kɾeðito i pɾestamos peɾsonales paɾa ɣastos ðe konsumo
+chunks/chunk_341.wav|komo kalkulaɾ el kosto ðe la ðeʊða
+chunks/chunk_342.wav|el kosto ðe la ðeʊða se kompone pɾinθipalmente ðe los inteɾeses ke paɣas poɾ el ðineɾo pɾestaðo
+chunks/chunk_343.wav|es impoɾtante konoθeɾ la tasa ðe inteɾes i el plaθo ðel pɾestamo paɾa kompɾendeɾ el kosto total ðe la ðeʊða
+chunks/chunk_344.wav|pasos paɾa kalkulaɾ el kosto ðe la ðeʊða uno
+chunks/chunk_345.wav|konoθe la tasa ðe inteɾes iðentifika la tasa ðe inteɾes anwal ðe tu ðeʊða
+chunks/chunk_346.wav|dos ðeteɾmina el salðo pendjɛnte
+chunks/chunk_347.wav|konoθe kwanto ðeβes aktwalmente tɾes kalkula los paɣos menswales utiliθa una kalkulaðoɾa ðe paɣos ðe ðeʊða paɾa ðeteɾminaɾ kwanto paɣaɾas menswalmente
+chunks/chunk_348.wav|kwatɾo
+chunks/chunk_349.wav|suma los paɣos total
+chunks/chunk_35.wav|tɾes
+chunks/chunk_350.wav|multiplika tus paɣos menswales poɾ el numeɾo ðe meses ðel plaθo ðel pɾestamo paɾa obteneɾ el kosto total ðe la ðeʊða
+chunks/chunk_351.wav|estɾatexjas paɾa eliminaɾ ðeʊða
+chunks/chunk_352.wav|reðuθiɾ i eβentwalmente eliminaɾ tus ðeʊðas es esenθjal paɾa alkanθaɾ la liβeɾtad finanθjeɾa
+chunks/chunk_353.wav|eksistem baɾjas estɾatexjas ke pweðes utiliθaɾ paɾa paɣaɾ tus ðeʊðas ðe maneɾa efektiβa peɾo la mas utiliθaða es el metoðo ðe la βola ðe njeβe
+chunks/chunk_354.wav|el metoðo ðe la βola ðe njeβe es una estɾatexja populaɾ i efektiβa paɾa paɣaɾ ðeʊða
+chunks/chunk_355.wav|su simpliθiðað i enfoke motiβaθjonal lo aθen iðeal paɾa mutʃas peɾsonas ke βuskan liβeɾaɾse ðe las ðeʊðas
+chunks/chunk_356.wav|aki te lo ekspliko ðe maneɾa senθiʎa i klaɾa
+chunks/chunk_357.wav|ke es el metoðo ðe la βola ðe njeβe
+chunks/chunk_358.wav|el metoðo ðe la βola ðe njeβe konsiste em paɣaɾ tus ðeʊðas komenθando poɾ la mas pekeɲa asta la mas ɣɾande
+chunks/chunk_359.wav|independjɛntemente ðe la tasa ðe inteɾes
+chunks/chunk_36.wav|aoro
+chunks/chunk_360.wav|la iðea es ke al eliminaɾ las ðeʊðas mas pekeɲas pɾimeɾo obtjenes una sensaθjon de loɣɾo i motiβaθjom paɾa seɣiɾ aðelante kon las ðeʊðas mas ɣɾandes
+chunks/chunk_361.wav|komo funθjona el metoðo ðe la βola ðe njeβe
+chunks/chunk_362.wav|uno
+chunks/chunk_363.wav|aθ una lista ðe tus ðeʊðas
+chunks/chunk_364.wav|anota toðas tus ðeʊðas ðesðe la mas pekeɲa asta la mas ɣɾande
+chunks/chunk_365.wav|inkluʝe el monto total ðe kaða ðeʊða la tasa ðe inteɾes i el paɣo minimo menswal
+chunks/chunk_366.wav|dos pɾioɾiθa las ðeʊðas poɾ monte
+chunks/chunk_367.wav|oɾðena las ðeʊðas ðe menoɾ a maʝoɾ salðo sin impoɾtaɾ la tasa ðe inteɾes
+chunks/chunk_368.wav|tɾes
+chunks/chunk_369.wav|paɣa el minimo en toðas las ðeʊða
+chunks/chunk_37.wav|paɾte ðe tus iŋɡɾesos ke ɣwaɾðas paɾa el futuɾo ʝa sea paɾa emeɾxɛnθjas metas espeθifikas o imbeɾsjon kwatɾo
+chunks/chunk_370.wav|aseɣuɾate ðe paɣaɾ al menos el minimo rekeɾiðo en toðas tus ðeʊðas paɾa eβitaɾ kaɾɣos poɾ paɣos atɾasaðos i manteneɾ um bwen istoɾjal kɾeðitiθjo
+chunks/chunk_371.wav|kwatɾo
+chunks/chunk_372.wav|enfokate en la ðeʊða mas pekeɲa
+chunks/chunk_373.wav|deðika toðo el ðineɾo ekstɾa ke pweðas apaɣaɾ la ðeʊða mas pekeɲa mjentɾas kontinuas aθjɛndo los paɣos minimos en las ðemas
+chunks/chunk_374.wav|θinko
+chunks/chunk_375.wav|elimina la ðeʊða mas pekeɲa
+chunks/chunk_376.wav|una βeθ ke aʝas paɣaðo la ðeʊða mas pekeɲa toma el ðineɾo ke usaβas paɾa esa ðeʊða i aplikalo a la siɣjɛnte ðeʊða mas pekeɲa
+chunks/chunk_377.wav|se
+chunks/chunk_378.wav|repite el pɾoθeso
+chunks/chunk_379.wav|kontinua este pɾoθeso tɾaslaðando el monto total ke paɣaβas en kaða ðeʊða eliminaða a la siɣjɛnte ðeʊða en la lista
+chunks/chunk_38.wav|imbeɾsjon
+chunks/chunk_380.wav|si te pɾeɣuntas poɾ ke ðeβeɾias utiliθaɾ este sistema es impoɾtante ke tɛŋɡas en kwɛnta los tɾes ɣɾandes βenefiθjos ðel metoðo ðe la βola ðe njeβe uno
+chunks/chunk_381.wav|motiβaθjon
+chunks/chunk_382.wav|al paɣaɾ rapiðamente las ðeʊðas mas pekeɲas obtjenes una sensaθjon de loɣɾo i pɾoɣɾeso lo ke te motiβa a kontinwaɾ
+chunks/chunk_383.wav|dos
+chunks/chunk_384.wav|simplifikaθjon
+chunks/chunk_385.wav|kon el tjempo tendɾas menos ðeʊðas ke manexaɾ lo ke simplifika tus finanθas
+chunks/chunk_386.wav|tɾes
+chunks/chunk_387.wav|reðukθjon del estɾes
+chunks/chunk_388.wav|beɾ ke tus ðeʊðas ðisminuʝem pweðe reðuθiɾ el estɾes finanθjeɾo i ðaɾte una maʝoɾ sensaθjon de kontɾol
+chunks/chunk_389.wav|finalmente rekweɾða ke las ðeʊðas tambjem pweðen teneɾ un uso positiβo sjempɾe i kwando se implemɛntem paɾa konseɣiɾ ɣananθjas en el futuɾo peɾo paɾa eso βamos a aβoɾðaɾ las βentaxas ðe las imbeɾsjones
+chunks/chunk_39.wav|el uso ðe tu ðineɾo paɾa adkiɾiɾ aktiβos ke pweðaŋ xeneɾaɾ iŋɡɾesos o inkɾementaɾ su βaloɾ kon el tjempo komo akθjones βonos o βjenes raiθes
+chunks/chunk_390.wav|kapitulo kwatɾo
+chunks/chunk_391.wav|imbeɾsjones βasikas
+chunks/chunk_392.wav|en este kapitulo nos aðentɾaɾemos en el mundo ðe las imbeɾsjones una eramjɛnta klaβe paɾa aθeɾ kɾeθeɾ tu patɾimonjo i alkanθaɾ tus oβxetiβos finanθjeɾos a laɾɣo plaθo
+chunks/chunk_393.wav|apɾendeɾas ke es imbeɾtiɾ los ðifeɾɛntes tipos ðe imbeɾsjones ðisponiβles i komo pweðes komenθaɾ a imbeɾtiɾ ðe maneɾa intelixɛnte
+chunks/chunk_394.wav|komo ðisklaɪmeɾ o nota aklaɾatoɾja naða ðe esto repɾesɛnta una rekomendaθjon de imbeɾsjon
+chunks/chunk_395.wav|paɾa kwalkjeɾ ðeθisjon finanθjeɾa impoɾtante analiθe kontɾaste i βaliðe la infoɾmaθjon kon un asesoɾ θeɾtifikaðo
+chunks/chunk_396.wav|ditʃo esto kontinwemos
+chunks/chunk_397.wav|imbeɾtiɾ es el akto ðe asiɡnaɾ ðineɾo en difeɾɛntes βeikulos kon la ekspektatiβa ðe obteneɾ una ɣananθja o iŋɡɾeso aðiθjonal en el futuɾo
+chunks/chunk_398.wav|la imbeɾsjom pweðe aʝuðaɾte a supeɾaɾ la imflaθjon i konstɾuiɾ rikeθa a lo laɾɣo ðel tjempo
+chunks/chunk_399.wav|sin embaɾɣo toðas las imbeɾsjones konʎeβan riesɣos poɾ lo ke es fundamental entendeɾ los pɾinθipjos βasikos antes ðe komenθaɾ poɾ ke es impoɾtante la imbeɾsjon imbeɾtiɾ te peɾmite poneɾ tu ðineɾo a tɾaβaxaɾ paɾa ti
+chunks/chunk_4.wav|la eðukaθjon finanθjeɾa no es solo soβɾe numeɾos es soβɾe entendeɾ komo el ðineɾo pweðe tɾaβaxaɾ paɾa ti
+chunks/chunk_40.wav|θinko ðeʊðas ðineɾo ke ðeβes a otɾos komo pɾestamos estuðjantiles ipotekas i taɾxetas ðe kɾeðito
+chunks/chunk_400.wav|en luɣaɾ ðe simplemente aoraɾ tu ðineɾo en una kwɛnta ke pweðe no ɣanaɾ mutʃo inteɾes imbeɾtiɾ te ofɾeθe la opoɾtuniðad ðe aʊmentaɾ siɡnifikatiβamente tu patɾimonjo
+chunks/chunk_401.wav|la impoɾtanθja ðe imbeɾtiɾ raðika en uno
+chunks/chunk_402.wav|kɾeθimjɛnto ðel patɾimonjo
+chunks/chunk_403.wav|las imbeɾsjones pweðen aʊmentaɾ tu ðineɾo mas rapiðo ke las kwɛntas ðe aoro tɾaðiθjonal
+chunks/chunk_404.wav|dos
+chunks/chunk_405.wav|supeɾaθjon de la imflaθjon
+chunks/chunk_406.wav|imbeɾtiɾ pweðe aʝuðaɾte a manteneɾ el poðeɾ adkisitiβo ðe tu ðineɾo ʝa ke las imbeɾsjones pweðen ofɾeθeɾ rendimjɛntos ke supeɾen la tasa ðe imflaθjon
+chunks/chunk_407.wav|tɾes
+chunks/chunk_408.wav|xeneɾaθjon de iŋɡɾesos
+chunks/chunk_409.wav|alɣunas imbeɾsjones komo los βonos o las akθjones ke paɣan diβiðɛndos pweðem pɾopoɾθjonaɾ iŋɡɾesos reɣulaɾes
+chunks/chunk_41.wav|a kontinwaθjon te eksplikaɾe kon una pekeɲa istoɾja kaða uno ðe estos konθepːtos paɾa ke pweðas kompɾendeɾlos mexoɾ
+chunks/chunk_410.wav|kwatɾo
+chunks/chunk_411.wav|kumplimjɛnto ðe metas finanθjeɾas
+chunks/chunk_412.wav|las imbeɾsjones te peɾmiten alkanθaɾ oβxetiβos finanθjeɾos a laɾɣo plaθo komo la xuβilaθjon la kompɾa ðe una kasa o la eðukaθjon de tus ixos
+chunks/chunk_413.wav|sin embaɾɣo eksisten tɾes konθepːtos klaβes ke kwalkjeɾ imbeɾsoɾ ðeβe konoθeɾ paɾa pɾotexeɾ su ðineɾo
+chunks/chunk_414.wav|estos konθepːtos son
+chunks/chunk_415.wav|riesɣo retoɾno i ðiβeɾsifikaθjon
+chunks/chunk_416.wav|kwando aβlamos ðe riesɣo estamos aβlando ðe la posiβiliðad ðe peɾðeɾ paɾte o la totaliðad ðe tu imbeɾsjon
+chunks/chunk_417.wav|toðas las imbeɾsjones konʎeβan alɣun niβel ðe riesɣo i xeneɾalmente a maʝoɾ riesɣo maʝoɾ es la potenθjal rekompɛnsa aʊnke tambjen maʝoɾ potenθjal ðe peɾðiða
+chunks/chunk_418.wav|soβɾe el retoɾno poðɾiamos ðeθiɾ ke es la ɣananθja o peɾðiða xeneɾaða poɾ una imbeɾsjon
+chunks/chunk_419.wav|se ekspɾesa komo um poɾθentaxe ðel monto imbeɾtiðo
+chunks/chunk_42.wav|aβia una βeθ en um pekeɲo pweβlo una xoβen ʎamaða maɾia
+chunks/chunk_420.wav|finalmente la ðiβeɾsifikaθjon se entjɛnde komo la estɾatexja ðe ðistɾiβwiɾ tus imbeɾsjones entɾe ðifeɾɛntes aktiβos paɾa reðuθiɾ el riesɣo
+chunks/chunk_421.wav|al no poneɾ toðos tus weβos en una sola kanasta pweðes pɾotexeɾte mexoɾ kontɾa la βolatiliðad ðel meɾkaðo
+chunks/chunk_422.wav|ke tipos ðe imbeɾsjones eksisten
+chunks/chunk_423.wav|eksisten diβeɾsas foɾmas ðe imbeɾtiɾ kaða una kon sus pɾopjas kaɾakteɾistikas i niβeles ðe riesɣo
+chunks/chunk_424.wav|aki te pɾesɛnto alɣunos ðe los tipos mas komunes uno
+chunks/chunk_425.wav|akθjon
+chunks/chunk_426.wav|kompɾaɾ akθjones ðe una empɾesa te ða una paɾtiθipaθjon en su pɾopjeðad
+chunks/chunk_427.wav|las akθjones pweðen ofɾeθeɾ altos rendimjɛntos peɾo tambjen son mas βolatiles
+chunks/chunk_428.wav|dos
+chunks/chunk_429.wav|bonos
+chunks/chunk_43.wav|maɾia eɾa una peɾsona muj tɾaβaxaðoɾa i soɲaðoɾa peɾo sjempɾe se sentia aβɾumaða kwando se tɾataβa ðe manexaɾ su ðineɾo
+chunks/chunk_430.wav|los βonos som pɾestamos ke tu aθes a empɾesas o ɣoβjeɾno
+chunks/chunk_431.wav|ofɾeθem paɣos ðe inteɾeses reɣulaɾes i son menos riesɣosos ke las akθjones
+chunks/chunk_432.wav|tɾes
+chunks/chunk_433.wav|fondos
+chunks/chunk_434.wav|mutwos estos fondos imbjeɾten en una βaɾjeðad ðe aktiβos komo akθjones i βonos i soŋ xestjonaðos poɾ pɾofesjonales
+chunks/chunk_435.wav|ofɾeθen diβeɾsifikaθjon i son aðekwaðos paɾa los imbeɾsoɾes ke pɾefjeɾen no xestjonaɾ sus pɾopjas imbeɾsjones
+chunks/chunk_436.wav|kwatɾo
+chunks/chunk_437.wav|bjenes raiθes
+chunks/chunk_438.wav|imbeɾtiɾ em pɾopjeðaðes pweðe xeneɾaɾ iŋɡɾesos poɾ alkileɾ i apɾeθjaθjon del βaloɾ ðel inmweβle
+chunks/chunk_439.wav|rekjeɾe una imbeɾsjon iniθjal konsiðeɾaβle i pweðe no ser tan likiða komo otɾos aktiβos
+chunks/chunk_44.wav|un dia ðeθiðjo ke eɾa oɾa ðe tomaɾ el kontɾol ðe sus finanθas i komenθo su βjaxe paɾa entendeɾ mexoɾ komo funθjonaβa el ðineɾo en su βiða
+chunks/chunk_440.wav|θinko
+chunks/chunk_441.wav|kɾipːtomoneða
+chunks/chunk_442.wav|moneðas ðixitales komo βitkoɪn i eteɾeʊm
+chunks/chunk_443.wav|son altamente βolatiles i konsiðeɾaðas imbeɾsjones ðe alto riesɣo
+chunks/chunk_444.wav|pɾimeɾos pasos paɾa imbeɾtiɾ
+chunks/chunk_445.wav|komenθaɾ a imbeɾtiɾ pweðe paɾeθeɾ intimiðante peɾo no tjene poɾ ke seɾlo
+chunks/chunk_446.wav|aki aɪ alɣunos pasos βasikos paɾa konsiðeɾaɾ antes ðe empeθaɾ
+chunks/chunk_447.wav|uno eðukaθjon
+chunks/chunk_448.wav|antes ðe imbeɾtiɾ ðeðika tjempo a apɾendeɾ soβɾe los ðifeɾɛntes tipos ðe imbeɾsjones i komo funθjona
+chunks/chunk_449.wav|seɣun afiɾma warem buffett uno ðe los mexoɾes imbeɾsoɾes ðel mundo
+chunks/chunk_45.wav|pɾimeɾo kompɾendjo ke es lo ke se konoθe komo iŋɡɾeso
+chunks/chunk_450.wav|el riesɣo βjene ðe no saβeɾ lo ke estas aθjɛndo
+chunks/chunk_451.wav|poɾ eso pɾimeɾo eðukate antes ðe imbeɾtiɾ
+chunks/chunk_452.wav|dos
+chunks/chunk_453.wav|estaβleθe tus oβxetiβos ðefine klaɾamente tus oβxetiβos ðe imbeɾsjon
+chunks/chunk_454.wav|estas imbiɾtjɛndo paɾa la xuβilaθjon la eðukaθjon de tus ixos o paɾa xeneɾaɾ iŋɡɾesos aðiθjonales
+chunks/chunk_455.wav|es impoɾtante ke tɛŋɡas klaɾo paɾa ke lo aθes poɾke asi poðɾas xestjonaɾ aðekwaðamente tus emoθjones
+chunks/chunk_456.wav|tɾes
+chunks/chunk_457.wav|eβalua tu toleɾanθja al riesɣo
+chunks/chunk_458.wav|deteɾmina kwanto riesɣo estas ðispwesto a asumiɾ
+chunks/chunk_459.wav|tu toleɾanθja al riesɣo pweðe ðependeɾ ðe faktoɾes komo tu eðað iŋɡɾesos i oβxetiβos finanθjeɾos
+chunks/chunk_46.wav|maɾia tɾaβaxaβa komo maestɾa en la eskwela ðel pweβlo i reθiβia un salaɾjo menswal
+chunks/chunk_460.wav|kwatɾo aβɾe una kwɛnta ðe imbeɾsjom paɾa empeθaɾ a imbeɾtiɾ neθesitas aβɾiɾ una kwɛnta en una platafoɾma ðe koretaxe
+chunks/chunk_461.wav|aɪ mutʃas opθjones ðisponiβles
+chunks/chunk_462.wav|desðe las tɾaðiθjonales asta las en linea
+chunks/chunk_463.wav|tambjem pweðes konsultaɾ en tu βanko ðe konfjanθa paɾa obteneɾ infoɾmaθjon mas ðetaʎaða
+chunks/chunk_464.wav|θinko
+chunks/chunk_465.wav|komjɛnθa kom pekeɲas kantiðaðes
+chunks/chunk_466.wav|no neθesitas mutʃo ðineɾo paɾa empeθaɾ a imbeɾtiɾ komjɛnθa kom pekeɲas kantiðaðes i aʊmɛnta tus imbeɾsjones a meðiða ke te sjɛntas mas komoðo
+chunks/chunk_467.wav|se
+chunks/chunk_468.wav|diβeɾsifika tu poɾtafoljo
+chunks/chunk_469.wav|no poŋɡas toðo tu ðineɾo en una sola imbeɾsjon
+chunks/chunk_47.wav|aðemas ðaβa klases paɾtikulaɾes ðe pjano i reθiβia um pekeɲo iŋɡɾeso aðiθjonal ðe los inteɾeses ðe una kwɛnta ðe aoros ke aβia aβjeɾto kwando eɾa niɲa
+chunks/chunk_470.wav|diβeɾsifika tus aktiβos paɾa reðuθiɾ el riesɣo
+chunks/chunk_471.wav|sjete
+chunks/chunk_472.wav|monitoɾea i axuste
+chunks/chunk_473.wav|reβisa reɣulaɾmente tus imbeɾsjones i realiθa axustes seɣun sea neθesaɾjo paɾa aseɣuɾaɾte ðe ke siɣan alineaðas kon tus oβxetiβos
+chunks/chunk_474.wav|al kompɾendeɾ estos konθepːtos i seɣiɾ estos pasos estaɾas βjem pɾepaɾaðo paɾa komenθaɾ tu βjaxe en el mundo ðe las imbeɾsjones
+chunks/chunk_475.wav|sin duða alɣuna warem buffett pweðe ʎeɣaɾ a ser uno ðe tus mentoɾes el swele kompaɾtiɾ kon la xɛnte ɣɾandes pilðoɾas ðe saβiðuɾia ke peɾmitan reðuθiɾ los riesɣos i masifikaɾ las ɣananθjas
+chunks/chunk_476.wav|sin embaɾɣo komo ðiɾia moɾɣan owsel en su liβɾo la sikoloxia ðel ðineɾo
+chunks/chunk_477.wav|eksisten mas ðe ðosθjentos liβɾos ðeðikaðos a komo warem buffett kɾeo su foɾtuna
+chunks/chunk_478.wav|mutʃos son maɾaβiʎosos
+chunks/chunk_479.wav|peɾo pokos pɾestan sufiθjɛnte atenθjon al etʃo mas simple ðe toðo
+chunks/chunk_48.wav|un dia su aβwela le reɣalo una pekeɲa pɾopjeðad ke alkilo sumando asi otɾo fluxo ðe iŋɡɾesos lekθjon de iŋɡɾesos maɾia apɾendjo ke los iŋɡɾesos son toðo el ðineɾo ke reθiβes aðemas teneɾ multiples fwɛntes ðe iŋɡɾesos le ðjo a maɾia mas seɣuɾiðað i fleksiβiliðad
+chunks/chunk_480.wav|la foɾtuna ðe βuffett no se ðeβe a ser simplemente um bwen imbeɾsoɾ sino a aβeɾ siðo um bwen imbeɾsoɾ ðesðe ke eɾa liteɾalmente un kɾi
+chunks/chunk_481.wav|un faktoɾ ðeteɾminante en la obtenθjon de βwenas ɣananθjas kon las imbeɾsjones es el tjempo
+chunks/chunk_482.wav|i es poɾ eso ke ðeβeɾias tɾataɾ ðe komenθaɾ lo antes posiβle
+chunks/chunk_483.wav|eβitando ke los ɣastos iŋxustifikaðos te impiðan daɾ los pɾimeɾos pasos
+chunks/chunk_484.wav|apɾoβetʃa tu tjempo i miɾa aθja el futuɾo
+chunks/chunk_485.wav|i xustamente eso es lo ke βamos a tɾataɾ en el siɣjɛnte kapitulo
+chunks/chunk_486.wav|kapitulo θinko planifikaθjon finanθjeɾa a laɾɣo plaθo
+chunks/chunk_487.wav|en este kapitulo βamos a eksploɾaɾ la planifikaθjon finanθjeɾa a laɾɣo plaθo un aspekto kɾuθjal paɾa aseɣuɾaɾ tu βjenestaɾ finanθjeɾo en el futuɾo
+chunks/chunk_488.wav|apɾendeɾas a konstɾuiɾ un fondo ðe emeɾxɛnθja a planifikaɾ paɾa la xuβilaθjon i a kompɾendeɾ la impoɾtanθja ðe los seɣuɾos
+chunks/chunk_489.wav|la planifikaθjon finanθjeɾa a laɾɣo plaθo es una ðe las estɾatexjas mas impoɾtantes paɾa aseɣuɾaɾ el βjenestaɾ ekonomiko a lo laɾɣo ðe toða nwestɾa βiða
+chunks/chunk_49.wav|seɣundo kompɾendjo la impoɾtanθja ðe poneɾ limites a los ɣastos
+chunks/chunk_490.wav|desðe emfɾentaɾ los impɾeβistos en la xuβentuð asta aseɣuɾaɾ una xuβilaθjon doɾaða una βwena planifikaθjon nos peɾmite βiβiɾ kon tɾankiliðað i seɣuɾiðad finanθjeɾa
+chunks/chunk_491.wav|este enfoke no solo se θɛntɾa en el pɾesɛnte sino ke tambjen antiθipa i pɾepaɾa paɾa el futuɾo
+chunks/chunk_492.wav|pɾimeɾ faktoɾ impoɾtante paɾa el laɾɣo plaθo la seɣuɾiðad
+chunks/chunk_493.wav|la xuβentuð a menuðo se kaɾakteɾiθa poɾ una sensaθjon de imbulneɾaβiliðað i la peɾθepθjon de ke el tjempo esta ðe nwestɾo laðo
+chunks/chunk_494.wav|sin embaɾɣo la realiðað es ke la βiða pweðe pɾesentaɾ impɾeβistos en kwalkjeɾ momɛnto
+chunks/chunk_495.wav|peɾðiðas ðe empleo pɾoβlemas ðe saluð o emeɾxɛnθjas familjaɾes son sitwaθjones ke pweðen okuriɾ inespeɾaðamente i teneɾ un impakto siɡnifikatiβo en nwestɾas finanθas
+chunks/chunk_496.wav|en konsekwɛnθja teneɾ un fondo ðe emeɾxɛnθjas es esenθjal este fondo ðeβe ser lo sufiθjɛntemente ɣɾande komo paɾa kuβɾiɾ ðe tɾes a seɪs meses ðe ɣastos esenθjales
+chunks/chunk_497.wav|komo el alkileɾ alimɛntos seɾβiθjos i otɾos kostos βasikos
+chunks/chunk_498.wav|este koltʃon finanθjeɾo aktua komo una red ðe seɣuɾiðad ke peɾmite emfɾentaɾ impɾeβistos sin teneɾ ke rekuriɾ a pɾestamos o ðeʊðas lo kwal pweðe komplikaɾ aun mas la sitwaθjon aðemas es impoɾtante konsiðeɾaɾ seɣuɾos aðekwaðos ðuɾante la xuβentud
+chunks/chunk_499.wav|los seɣuɾos son una paɾte impoɾtante ðe la planifikaθjon finanθjeɾa a laɾɣo plaθo
+chunks/chunk_5.wav|desðe eβitaɾ kaeɾ en deʊðas asta saβeɾ komo i ðonde aoraɾ kaða pekeɲo paso ke tomes pweðe ʎeβaɾte a un maʝoɾ βjenestaɾ ekonomiko
+chunks/chunk_50.wav|maɾia se ðjo kwɛnta ðe ke su ðineɾo se iβa rapiðamente en kosas pekeɲas
+chunks/chunk_500.wav|ʝa ke te pɾotexen kontɾa riesɣos siɡnifikatiβos ke poðɾian teneɾ un impakto finanθjeɾo ðeβastaðoɾ
+chunks/chunk_501.wav|kwales son los tipos ðe seɣuɾos ke eksisten
+chunks/chunk_502.wav|uno
+chunks/chunk_503.wav|seɣuɾo ðe βiða
+chunks/chunk_504.wav|pɾopoɾθjona apoʝo finanθjeɾo a tus ðependjɛntes en kaso ðe tu faʎeθimjɛnto
+chunks/chunk_505.wav|es kɾuθjal si tjenes peɾsonas ke ðepɛnden de tu iŋɡɾeso ðos seɣuɾo ðe salud kuβɾe ɣastos meðikos i te pɾotexe kontɾa faktuɾas meðikas aβɾumaðoɾas tɾes seɣuɾo ðe pɾopjeðad pɾotexe tus βjenes komo tu kasa i aʊtomoβil kontɾa ðaɲos i roβos kwatɾo
+chunks/chunk_506.wav|seɣuɾo ðe inkapaθiðad pɾopoɾθjona iŋɡɾesos si no pweðes tɾaβaxaɾ ðeβiðo a una ðiskapaθiðad
+chunks/chunk_507.wav|komo elexiɾ el seɣuɾo aðekwaðo uno
+chunks/chunk_508.wav|eβalua tus neθesiðaðes konsiðeɾa tus responsaβiliðaðes finanθjeɾas i kjenes ðepɛnden de ti ðos kompaɾa opθjones imbestiɣa ðifeɾɛntes pɾoβeeðoɾes i planes ðe seɣuɾos paɾa enkontɾaɾ la mexoɾ koβeɾtuɾa al mexoɾ pɾeθjo
+chunks/chunk_509.wav|tɾes
+chunks/chunk_51.wav|al reβisaɾ sus ɣastos βjo ke tenia kostos fixos komo la rɛnta ðe su apaɾtamɛnto las faktuɾas ðe seɾβiθjos i los ɣastos en komiðas
+chunks/chunk_510.wav|lee las letɾas pekeɲas
+chunks/chunk_511.wav|aseɣuɾate ðe entendeɾ los teɾminos i kondiθjones ðel seɣuɾo inkluiðas las eksklusjones i los limites ðe koβeɾtuɾa
+chunks/chunk_512.wav|kwatɾo
+chunks/chunk_513.wav|konsulta kon un asesoɾ
+chunks/chunk_514.wav|si no estas seɣuɾo ðe ke tipo ðe seɣuɾo neθesitas konsiðeɾa aβlaɾ kon un asesoɾ finanθjeɾo ke pweða ɣjaɾ
+chunks/chunk_515.wav|ditʃo esto el seɣuɾo ðe saluð el seɣuɾo ðe βiða i el seɣuɾo ðe ðiskapaθiðad son eramjɛntas kɾuθjales ke pɾotexen kontɾa riesɣos finanθjeɾos siɡnifikatiβos
+chunks/chunk_516.wav|estas poliθas pweðem pɾopoɾθjonaɾ tɾankiliðað i estaβiliðað en momɛntos ðe kɾisis peɾmitjɛndo enfokaɾse en la rekupeɾaθjon sin teneɾ ke pɾeokupaɾse poɾ el peso aɲaðiðo ðe pɾeokupaθjones finanθjeɾas
+chunks/chunk_517.wav|seɣundo faktoɾ impoɾtante paɾa el laɾɣo plaθo
+chunks/chunk_518.wav|la xuβilaθjon
+chunks/chunk_519.wav|la xuβilaθjon es una etapa ðe la βiða ke toðos ðeβemos planifikaɾ kon antelaθjon
+chunks/chunk_52.wav|tambjen noto ke ɣastaβa βastante en saliɾ a komeɾ kompɾaɾ ropa i βjaxaɾ
+chunks/chunk_520.wav|konfjaɾ unikamente en la pensjon del ɣoβjeɾno pweðe no ser sufiθjɛnte paɾa manteneɾ el estilo ðe βiða ke ðeseamos
+chunks/chunk_521.wav|poɾ eʎo es fundamental komenθaɾ a aoraɾ e imbeɾtiɾ paɾa la xuβilaθjon desðe una eðad tempɾana
+chunks/chunk_522.wav|paɾa ser pɾeβisoɾes kon esto ten en konsiðeɾaθjon uno
+chunks/chunk_523.wav|kontɾiβuθjones a planes ðe xuβilaθjon del ɣoβjeɾno
+chunks/chunk_524.wav|la maʝoɾia son una oβliɣaθjom peɾo tambjen son eksθelɛntes foɾmas ðe aseɣuɾaɾ iŋɡɾesos paɾa el futuɾo
+chunks/chunk_525.wav|estos planes no solo peɾmiten aoraɾ sino ke pɾesɛntan alɣunas βentaxas fiskales
+chunks/chunk_526.wav|dos
+chunks/chunk_527.wav|kwɛnto
+chunks/chunk_528.wav|indiβiðwales ðe retiɾo
+chunks/chunk_529.wav|estas kwɛntas ofɾeθem benefiθjos fiskales ke pweðen aʝuðaɾ a maksimiθaɾ los aoros paɾa la xuβilaθjon sjɛndo un komplemɛnto ðe la xuβilaθjon kɾeaða kon el estaðo
+chunks/chunk_53.wav|lekθjon de ɣastos
+chunks/chunk_530.wav|mutʃos xoβenes swelen demeɾitaɾ el tema ðe la xuβilaθjon dʒa ke sus fweɾθas i animo les aθe pensaɾ ke son imbenθiβles sin embaɾɣo seɣun afiɾma xeoɾxe klaɪson
+chunks/chunk_531.wav|es impoɾtante aseɣuɾaos ðe una rɛnta paɾa el futuɾo miɾað a los anθjanos i no olβiðeɪs ke βosotɾos seɾeis uno ðe eʎos
+chunks/chunk_532.wav|la xuβentud no es eteɾna
+chunks/chunk_533.wav|no peke ðe eksθeso ðe konfjanθa i sea pɾeβisoɾ paɾa el futuɾo aðemas kwando ðuðe soβɾe el aoro paɾa el futuɾo rekweɾðe estas tɾes βentaxas ðe aθeɾlo pɾonto
+chunks/chunk_534.wav|uno
+chunks/chunk_535.wav|kɾeθimjɛnto kompwesto
+chunks/chunk_536.wav|el inteɾes kompwesto siɡnifika ke tus imbeɾsjones ɣanan inteɾes no solo soβɾe el monto iniθjal sino tambjen soβɾe los inteɾeses anteɾjoɾes
+chunks/chunk_537.wav|kwanto mas tjempo imbjeɾtas mas kɾeθeɾa tu ðineɾo
+chunks/chunk_538.wav|dos seɣuɾiðad
+chunks/chunk_539.wav|finanθjeɾa aoraɾ paɾa la xuβilaθjon aseɣuɾa ke tendɾas sufiθjɛnte ðineɾo paɾa βiβiɾ komoðamente en tus aɲos ðe retiɾo
+chunks/chunk_54.wav|los ɣastos son toðo el ðineɾo ke se βa ðe tu laðo ʝa sea poɾ oβliɣaθjon o ðeskwiðo
+chunks/chunk_540.wav|tɾes
+chunks/chunk_541.wav|fleksiβiliðað i liβeɾtad
+chunks/chunk_542.wav|um bwen aoro paɾa la xuβilaθjon te ða la liβeɾtad ðe elexiɾ komo pasaɾ tus aɲos ðe retiɾo ʝa sea βjaxando ðisfɾutando ðe obβjes o pasando tjempo kon la familja
+chunks/chunk_543.wav|ditʃo esto ten en kwɛnta ke tus finanθas no son un tema ke imbolukɾa unikamente los ɣastos ðel mes sino tambjen la eðifikaθjon de um patɾimonjo ke sea ðe βenefiθjo paɾa ti i paɾa tus seɾes keɾiðos
+chunks/chunk_544.wav|eso lo βamos a tɾataɾ a kontinwaθjon
+chunks/chunk_545.wav|kapitulo seɪs konstɾuʝɛndo tu patɾimonjo en este kapitulo eksploɾaɾemos estɾatexjas paɾa aʊmentaɾ tu patɾimonjo inkluʝɛndo la xeneɾaθjon de iŋɡɾesos aðiθjonales i la impoɾtanθja ðe eðifikaɾ um patɾimonjo familjaɾ
+chunks/chunk_546.wav|el patɾimonjo familjaɾ se refjeɾe a los aktiβos akumulaðos i xestjonaðos kolektiβamente poɾ una familja
+chunks/chunk_547.wav|kon el oβxetiβo ðe pɾopoɾθjonaɾ seɣuɾiðað i opoɾtuniðaðes a toðos sus mjembɾos este patɾimonjo pweðe inkluiɾ βjenes raiθes imbeɾsjones aoros i otɾos aktiβos βaljosos la eðifikaθjon de um patɾimonjo familjaɾ komjɛnθa kon la mentaliðað aðekwaða ðandole releβanθja a ðos elemɛntos en konkɾeto
+chunks/chunk_548.wav|uno
+chunks/chunk_549.wav|la mentaliðad ðe kolaβoɾaθjon en luɣaɾ ðe βeɾ las finanθas komo una responsaβiliðað indiβiðwal aðopːtamos una peɾspektiβa en la ke toðos los mjembɾos ðe la familja kolaβoɾam paɾa alkanθaɾ metas finanθjeɾas komunes
+chunks/chunk_55.wav|se ðiβiðen en neθesiðaðes komiða βiβjɛnda seɾβiθjos i ðeseos entɾetenimjɛnto βjaxe
+chunks/chunk_550.wav|esto inkluʝe kompaɾtiɾ iŋɡɾesos
+chunks/chunk_551.wav|diskutiɾ planes finanθjeɾos i tomaɾ ðeθisjones kolektiβas soβɾe imbeɾsjones i aoro
+chunks/chunk_552.wav|dos
+chunks/chunk_553.wav|oβxetiβo
+chunks/chunk_554.wav|komunes
+chunks/chunk_555.wav|estaβleθeɾ metas finanθjeɾas ke βenefiθjen a toða la familja es kɾuθjal estas metas pweðen inkluiɾ la kompɾa ðe una kasa finanθjaɾ la eðukaθjon de los ixos kɾeaɾ un fondo ðe emeɾxɛnθja familjaɾ i planifikaɾ la xuβilaθjon de los paðɾes
+chunks/chunk_556.wav|al tɾaβaxaɾ xuntos aθja estos oβxetiβos la familja se foɾtaleθe i toðos los mjembɾos se βenefiθjan
+chunks/chunk_557.wav|poɾ otɾo laðo θentɾaɾse unikamente en los iŋɡɾesos indiβiðwales pweðe ðeβilitaɾ a la familja en su koŋxunto
+chunks/chunk_558.wav|aʊnke kaða mjembɾo pweðe pɾospeɾaɾ finanθjeɾamente
+chunks/chunk_559.wav|la falta ðe una βisjon kompaɾtiða i ðe kolaβoɾaθjom pweðe xeneɾaɾ ðesiɣwalðaðes i βulneɾaβiliðaðes ðɛntɾo ðel ɣɾupo familjaɾ
+chunks/chunk_56.wav|maɾia se ðjo kwɛnta ðe ke poðia reðuθiɾ sus ɣastos ke suɾxian del ðeseo o los kapɾitʃos momentaneos
+chunks/chunk_560.wav|poɾ eso es impoɾtante teneɾ en kwɛnta estas tɾes aleɾtas
+chunks/chunk_561.wav|uno
+chunks/chunk_562.wav|desiɣwalðað i resentimjɛnto
+chunks/chunk_563.wav|si alɣunos mjembɾos ðe la familja pɾospeɾan mjentɾas otɾos lutʃan finanθjeɾamente pweðe suɾxiɾ resentimjɛnto i tensjon
+chunks/chunk_564.wav|esto pweðe afektaɾ neɣatiβamente las relaθjones familjaɾes i kɾeaɾ un entoɾno ðe kompetɛnθja en luɣaɾ ðe koopeɾaθjon
+chunks/chunk_565.wav|dos
+chunks/chunk_566.wav|falta ðe apoʝo
+chunks/chunk_567.wav|sin um patɾimonjo familjaɾ los mjembɾos ke emfɾɛntan difikultaðes ekonomikas pweðen no reθiβiɾ el apoʝo neθesaɾjo
+chunks/chunk_568.wav|esto pweðe ʎeβaɾ a endeʊðamjɛntos inneθesaɾjos i a la inkapaθiðad ðe supeɾaɾ kɾisis finanθjeɾas ðe maneɾa efektiβa
+chunks/chunk_569.wav|tɾes
+chunks/chunk_57.wav|i ðeθiðjo aθeɾle uso ðe una maneɾa mas intelixɛnte
+chunks/chunk_570.wav|peɾðiða ðe opoɾtuniðaðes
+chunks/chunk_571.wav|la falta ðe planifikaθjon i kolaβoɾaθjom pweðe resultaɾ en la peɾðiða ðe opoɾtuniðaðes ðe imbeɾsjon i kɾeθimjɛnto ke βenefiθjen a toða la familja
+chunks/chunk_572.wav|los iŋɡɾesos indiβiðwales aʊnke βenefiθjosos no tjenen el mismo impakto ke las estɾatexjas finanθjeɾas kolektiβas
+chunks/chunk_573.wav|sin embaɾɣo si no kwɛntas kon una familja numeɾosa o no tjenes una relaθjon afektiβa kon eʎos no pjɛnses ke esto impeðiɾa ke loɣɾes ɣɾandes kosas
+chunks/chunk_574.wav|si en estos momɛntos ðe tu βiða ðeβes maɾtʃaɾ komo un loβo solitaɾjo tambjen aβɾa opθjones paɾa ti si eɾes ðisθiplinaðo i te mantjenes aleɾta a las βwenas opoɾtuniðaðes
+chunks/chunk_575.wav|poɾ lo tanto ten en kwɛnta ke seɾa neθesaɾjo ke estaβleθkas una xeneɾaθjon de iŋɡɾesos aðiθjonales paɾa ke ðexes ðe ðependeɾ ðe un salaɾjo βasiko i pweðas konstɾuiɾ um patɾimonjo a tu meðiða
+chunks/chunk_576.wav|eksistem baɾjas foɾmas ðe xeneɾaɾ iŋɡɾesos aðiθjonales a kontinwaθjon te ekspliko las mas komunes
+chunks/chunk_577.wav|uno
+chunks/chunk_578.wav|bjenes raiθes
+chunks/chunk_579.wav|kompɾaɾ pɾopjeðaðes paɾa alkilaɾ pweðe pɾopoɾθjonaɾ um fluxo konstante ðe iŋɡɾesos pasiβos
+chunks/chunk_58.wav|teɾθeɾo implemento el aoro komo pɾotektoɾ ðe su ðineɾo
+chunks/chunk_580.wav|aʊnke rekjeɾe una imbeɾsjon iniθjal siɡnifikatiβa los iŋɡɾesos poɾ alkileɾ pweðen ser una eksθelɛnte fwɛnte ðe iŋɡɾesos aðiθjonales
+chunks/chunk_581.wav|dos
+chunks/chunk_582.wav|imbeɾsjones en diβiðɛndos
+chunks/chunk_583.wav|imbeɾtiɾ en akθjones ke paɣan diβiðɛndos te peɾmite reθiβiɾ paɣos reɣulaɾes sim bendeɾ tus akθjones
+chunks/chunk_584.wav|tɾes
+chunks/chunk_585.wav|neɣoθjos en linea
+chunks/chunk_586.wav|kɾeaɾ un neɣoθjo en linea komo um bloɣ un kanal ðe ʝow tuβe o una tjɛnda en linea pweðe xeneɾaɾ iŋɡɾesos pasiβos una βeθ ke el neɣoθjo este estaβleθiðo
+chunks/chunk_587.wav|kwatɾo
+chunks/chunk_588.wav|reɣalia
+chunks/chunk_589.wav|si tjenes aβiliðaðes kɾeatiβas komo eskɾiβiɾ liβɾos komponeɾ musika o kɾeaɾ aɾte pweðes ɣanaɾ reɣalias poɾ tu tɾaβaxo
+chunks/chunk_59.wav|maɾia ðeθiðjo ke eɾa impoɾtante ɣwaɾðaɾ una paɾte ðe sus iŋɡɾesos paɾa el futuɾo
+chunks/chunk_590.wav|la impoɾtanθja ðe estɾuktuɾaɾ aðekwaðamente un neɣoθjo paɾalelo
+chunks/chunk_591.wav|teneɾ un neɣoθjo paɾalelo pweðe ser una eksθelɛnte maneɾa ðe komplementaɾ tus iŋɡɾesos i kon el tjempo inkluso supeɾaɾ los iŋɡɾesos ðe tu empleo aktwal sin embaɾɣo paɾa loɣɾaɾ este oβxetiβo es kɾuθjal estɾuktuɾaɾ aðekwaðamente tu neɣoθjo ðesðe el pɾinθipjo
+chunks/chunk_592.wav|un enfoke metoðiko i βjem planifikaðo pweðe aθeɾ la ðifeɾɛnθja entɾe el eksito i el fɾakaso
+chunks/chunk_593.wav|aki se ðetaʎa la impoɾtanθja ðe kaða paso en este pɾoθeso
+chunks/chunk_594.wav|uno iðentifika tus aβiliðaðes i pasjones
+chunks/chunk_595.wav|el pɾimeɾ paso paɾa iniθjaɾ un neɣoθjo paɾalelo eksitoso es iðentifikaɾ tus aβiliðaðes i pasjones
+chunks/chunk_596.wav|elexiɾ un neɣoθjo ke se alinee kon tus inteɾeses i kompetɛnθjas no solo te mantendɾa motiβaðo sino ke tambjen aʊmentaɾa tus pɾoβaβiliðaðes ðe eksito
+chunks/chunk_597.wav|kwando tɾaβaxas en alɣo ke realmente te apasjona es mas pɾoβaβle ke imbjeɾtas el tjempo i el esfweɾθo neθesaɾjos paɾa aθeɾlo kɾeθeɾ
+chunks/chunk_598.wav|dos
+chunks/chunk_599.wav|imbestiɣa el meɾkaðo
+chunks/chunk_6.wav|este aʊðjoliβɾo esta ðiseɲaðo paɾa ser tu kompaɲeɾo en este βjaxe
+chunks/chunk_60.wav|komenθo a sepaɾaɾ um poɾθentaxe ðe su salaɾjo kaða mes i lo ɣwaɾðo en una kwɛnta ðe aoros ðestinaða a emeɾxɛnθja
+chunks/chunk_600.wav|antes ðe lanθaɾte a un nweβo neɣoθjo es esenθjal imbestiɣaɾ el meɾkaðo
+chunks/chunk_601.wav|aseɣuɾate ðe ke aʝa ðemanda paɾa tu pɾoðukto o seɾβiθjo i estuðja a tu kompetɛnθja
+chunks/chunk_602.wav|konoθeɾ el meɾkaðo te aʝuðaɾa a iðentifikaɾ opoɾtuniðaðes i amenaθas peɾmitjendote axustaɾ tu estɾatexja en konsekwɛnθja
+chunks/chunk_603.wav|tɾes
+chunks/chunk_604.wav|kɾea um plan de neɣoθjo
+chunks/chunk_605.wav|um plan de neɣoθjos es una oxa ðe ruta ke ðefine tus oβxetiβos estɾatexjas ðe maɾketiŋ i plan finanθjeɾo
+chunks/chunk_606.wav|estaβleθeɾ um plan klaɾo i ðetaʎaðo te aʝuðaɾa a manteneɾte enfokaðo i a tomaɾ ðeθisjones infoɾmaðas
+chunks/chunk_607.wav|inkluʝe metas a koɾto i laɾɣo plaθo un analisis ðel meɾkaðo estɾatexjas ðe maɾketiŋ i pɾoʝekθjones finanθjeɾas
+chunks/chunk_608.wav|kwatɾo
+chunks/chunk_609.wav|komjɛnθa pekeɲo
+chunks/chunk_61.wav|tambjen aβɾio una seɣunda kwɛnta paɾa aoraɾ paɾa unas βakaθjones en la plaʝa ke soɲaβa kon tomaɾ alɣun dia
+chunks/chunk_610.wav|no neθesitas una ɣɾan imbeɾsjon iniθjal paɾa komenθaɾ tu neɣoθjo paɾalelo
+chunks/chunk_611.wav|komjɛnθa kon rekuɾsos limitaðos i ekspande a meðiða ke kɾeθka
+chunks/chunk_612.wav|esto te peɾmite pɾoβaɾ tu iðea en el meɾkaðo kon un riesɣo finanθjeɾo menoɾ i axustaɾ tu moðelo ðe neɣoθjo seɣun sea neθesaɾjo
+chunks/chunk_613.wav|komenθaɾ pekeɲo te peɾmite ser axil i aðapːtaβle
+chunks/chunk_614.wav|pweðes pɾoβaɾ tu konθepːto reθiβiɾ retɾoalimentaθjon i aθeɾ axustes antes ðe imbeɾtiɾ ɣɾandes kantiðaðes ðe tjempo i ðineɾo
+chunks/chunk_615.wav|este enfoke reðuθe el riesɣo i aʊmɛnta la sosteniβiliðað a laɾɣo plaθo ðel neɣoθjo
+chunks/chunk_616.wav|θinko
+chunks/chunk_617.wav|utiliθa eramjɛntas en linea
+chunks/chunk_618.wav|las eramjɛntas en linea pweðen ser uŋ ɡɾan aljaðo paɾa tu neɣoθjo paɾalelo
+chunks/chunk_619.wav|platafoɾmas komo etsi e βaɪ o amaθom pweðen aʝuðaɾte a βendeɾ pɾoðuktos mjentɾas ke upwoɾk i fiβer pweðen ser utiles paɾa ofɾeθeɾ seɾβiθjos
+chunks/chunk_62.wav|lekθjon de aoro
+chunks/chunk_620.wav|estas platafoɾmas no solo te pɾopoɾθjonan akθeso a una amplia βase ðe kliɛntes
+chunks/chunk_621.wav|sino ke tambjen faθilitan la xestjon de tu neɣoθjo
+chunks/chunk_622.wav|utiliθaɾ eramjɛntas en linea te peɾmite alkanθaɾ un meɾkaðo ɣloβal i xestjonaɾ tu neɣoθjo ðe maneɾa efiθjɛnte
+chunks/chunk_623.wav|aðemas estas platafoɾmas ofɾeθen imfɾaestɾuktuɾa i sopoɾte ke pweðen simplifikaɾ mutʃas taɾeas administɾatiβas peɾmitjendote enfokaɾte en kɾeθeɾ tu neɣoθjo
+chunks/chunk_624.wav|finalmente ten en kwɛnta ke tu patɾimonjo no solo se konstituʝe poɾ lo ke tjenes sino ke tambjen se soliðifika kon lo ke saβes
+chunks/chunk_625.wav|de eso aβlaɾemos en el pɾoksimo kapitulo
+chunks/chunk_626.wav|kapitulo sjete tu rikeθa intelektwal
+chunks/chunk_627.wav|la impoɾtanθja ðe teneɾ un kɾeθimjɛnto intelektwal se reflexa ðiɾektamente en el foɾtaleθimjɛnto ðel patɾimonjo finanθjeɾo ʝa ke el konoθimjɛnto i las aβiliðaðes adkiɾiðas pweðen ser tɾansfoɾmaðos en opoɾtuniðaðes ekonomikas taŋxiβles
+chunks/chunk_628.wav|un kɾeθimjɛnto intelektwal soliðo aβaɾka una amplia ɣama ðe konoθimjɛntos aβiliðaðes i kompetɛnθjas ke una peɾsona akumula a lo laɾɣo ðe su βiða a tɾaβes ðe la eðukaθjon la ekspeɾjɛnθja pɾofesjonal i el apɾendiθaxe kontinwo
+chunks/chunk_629.wav|este aθeɾβo no solo peɾmite tomaɾ ðeθisjones finanθjeɾas mas intelixɛntes i estɾatexikas sino ke tambjen aβɾe pweɾtas a opoɾtuniðaðes ðe neɣoθjo empɾendimjɛnto e innoβaθjon
+chunks/chunk_63.wav|el aoro es la paɾte ðe tus iŋɡɾesos ke konseɾβas i peɾmaneθe fjel a tu laðo
+chunks/chunk_630.wav|poɾ exemplo
+chunks/chunk_631.wav|una peɾsona kon konoθimjɛntos aβanθaðos en teknoloxia i pɾoɣɾamaθjom pweðe ðesaroʎaɾ soluθjones ðe softweɾ ke no solo mexoɾan su posiθjon en el meɾkaðo laβoɾal sino ke tambjem pweðen kombeɾtiɾse em pɾoðuktos komeɾθjales rentaβles
+chunks/chunk_632.wav|del mismo moðo un indiβiðwo kon aβiliðaðes ðe xestjon i liðeɾaθɣo pweðe impulsaɾ efiθjɛntemente una empɾesa o um pɾoʝekto empɾendeðoɾ maksimiθando los rekuɾsos i opːtimiθando las ɣananθjas
+chunks/chunk_633.wav|aðemas la kapaθiðad ðe inteɾpɾetaɾ i analiθaɾ infoɾmaθjon finanθjeɾa entendeɾ las tendɛnθjas ðel meɾkaðo i antiθipaɾ kambjos ekonomikos son aβiliðaðes klaβe ke se ðeɾiβan de un soliðo kɾeθimjɛnto intelektwal
+chunks/chunk_634.wav|lo kwal se tɾaðuθe en la aβiliðad ðe xestjonaɾ i aʊmentaɾ el patɾimonjo finanθjeɾo ðe maneɾa efektiβa
+chunks/chunk_635.wav|de iɣwal maneɾa poðɾiamos ðeθiɾ ke el kɾeθimjɛnto intelektwal tambjen xweɣa um papel kɾuθjal en la resiljɛnθja finanθjeɾa
+chunks/chunk_636.wav|en un mundo en konstante kambjo ðonde las fluktwaθjones ekonomikas i las ðisrupθjones teknoloxikas son la noɾma teneɾ un koŋxunto roβusto ðe konoθimjɛntos i aβiliðaðes peɾmite a los indiβiðwos aðapːtaɾse i pɾospeɾaɾ en diβeɾsas θiɾkunstanθjas
+chunks/chunk_637.wav|la eðukaθjon finanθjeɾa poɾ exemplo
+chunks/chunk_638.wav|kapaθita a las peɾsonas paɾa tomaɾ ðeθisjones ðe imbeɾsjon aθeɾtaða
+chunks/chunk_639.wav|xestjonaɾ ðeʊðas ðe maneɾa responsaβle i planifikaɾ paɾa el futuɾo aseɣuɾando asi una βase finanθjeɾa estaβle
+chunks/chunk_64.wav|maɾia apɾendjo ke teneɾ un fondo ðe emeɾxɛnθja es kɾuθjal paɾa emfɾentaɾ impɾeβistos i ke tambjem poðia aoraɾ paɾa metas espeθifikas komo sus βakaθjones
+chunks/chunk_640.wav|aðemas el apɾendiθaxe kontinwo i la kapaθiðad ðe adkiɾiɾ nweβas aβiliðaðes peɾmiten a las peɾsonas manteneɾse kompetitiβas en el meɾkaðo laβoɾal akθeðeɾ a mexoɾes opoɾtuniðaðes i en ultima instanθja aʊmentaɾ sus iŋɡɾesos
+chunks/chunk_641.wav|aðemas en teɾminos ðe empɾendimjɛnto un empɾendeðoɾ βjen infoɾmaðo i eðukaðo es mas kapaθ ðe iðentifikaɾ nitʃos ðe meɾkaðo innoβaɾ i kɾeaɾ βaloɾ lo ke no solo βenefiθja su pɾopjo konoθimjɛnto sino ke tambjen kontɾiβuʝe al kɾeθimjɛnto ekonomiko eŋ xeneɾal
+chunks/chunk_642.wav|la ekonomia neθesita ðe xɛnte βjem pɾepaɾaða i kon iðeas innoβaðoɾas
+chunks/chunk_643.wav|poɾ lo tanto imbeɾtiɾ en el ðesaroʎo ðel kɾeθimjɛnto intelektwal es una estɾatexja fundamental paɾa kwalkjeɾ peɾsona ke βuske mexoɾaɾ i aseɣuɾaɾ su βjenestaɾ finanθjeɾo a laɾɣo plaθo
+chunks/chunk_644.wav|esta imbeɾsjon en konoθimjɛnto i aβiliðaðes no solo pɾopoɾθjona un retoɾno ekonomiko ðiɾekto
+chunks/chunk_645.wav|sino ke tambjem potɛnθja la kapaθiðad ðe los indiβiðwos paɾa tomaɾ ðeθisjones intelixɛntes
+chunks/chunk_646.wav|aðapːtaɾse a los kambjos i kapitaliθaɾ las opoɾtuniðaðes emeɾxɛntes
+chunks/chunk_647.wav|konsoliðando asi un θiklo βiɾtwoso ðe kɾeθimjɛnto i pɾospeɾiðad finanθjeɾa
+chunks/chunk_648.wav|paɾa mexoɾaɾ tus konoθimjɛntos en la aktwaliðað eksisten tɾes βias βastante utiles i rekomendaðas poɾ los ekspeɾtos
+chunks/chunk_649.wav|bia numeɾo uno komuniðaðes i ɣɾupos ðe apoʝo
+chunks/chunk_65.wav|sin embaɾɣo la rikeθa no se konstɾuʝe solo kon aoros i poɾ eso maɾia entendjo ke se neθesita un nweβo elemɛnto paɾa aθeɾ kɾeθeɾ su ðineɾo
+chunks/chunk_650.wav|uniɾse a komuniðaðes i ɣɾupos ðe apoʝo pweðe pɾopoɾθjonaɾte una red ðe peɾsonas kon inteɾeses similaɾes
+chunks/chunk_651.wav|estas komuniðaðes pweðen ofɾeθeɾ konsexos kompaɾtiɾ ekspeɾjɛnθjas i pɾopoɾθjonaɾ apoʝo en tu βjaxe finanθjeɾo
+chunks/chunk_652.wav|komo enkontɾaɾ i uniɾse a ɣɾupos ðe eðukaθjon finanθjeɾa
+chunks/chunk_653.wav|uno
+chunks/chunk_654.wav|reðes soθjal
+chunks/chunk_655.wav|unete a ɣɾupos en feɪsβuk liŋkeð in o redðit ðeðikaðos a las finanθas peɾsonales i la imbeɾsjon
+chunks/chunk_656.wav|dos
+chunks/chunk_657.wav|reʊnjon
+chunks/chunk_658.wav|lokales
+chunks/chunk_659.wav|paɾtiθipa en enkwɛntɾos lokales ðe eðukaθjon finanθjeɾa oɾɣaniθaðos a tɾaβes ðe oɾɣaniθaθjones ɣuβeɾnamentales o entiðaðes eðukatiβas
+chunks/chunk_66.wav|kwaɾto
+chunks/chunk_660.wav|tɾes
+chunks/chunk_661.wav|foɾos en linea
+chunks/chunk_662.wav|rexistɾate en foɾos ðonde pweðes ðiskutiɾ estɾatexjas ðe imbeɾsjon i xestjon finanθjeɾa
+chunks/chunk_663.wav|tambjem pweðes asistiɾ a tʃaɾlas o konfeɾɛnθjas ke aβoɾðen estos temas
+chunks/chunk_664.wav|bia numeɾo ðos kuɾsos espeθjaliθaðos
+chunks/chunk_665.wav|asistiɾ a kuɾsos espeθjaliθaðos ʝa seam pɾesenθjales o en linea es fundamental paɾa mexoɾaɾ los konoθimjɛntos finanθjeɾos i xestjonaɾ ðe maneɾa mas efikaθ las finanθas peɾsonales i pɾofesjonales
+chunks/chunk_666.wav|estos kuɾsos ofɾeθen una estɾuktuɾa eðukatiβa ke peɾmite a los paɾtiθipantes adkiɾiɾ konoθimjɛntos aktwaliθaðos i pɾofundos soβɾe ðiβeɾsos aspektos ðe la xestjon finanθjeɾa
+chunks/chunk_667.wav|desðe la elaβoɾaθjon de pɾesupwestos asta la imbeɾsjon en meɾkaðos finanθjeɾos
+chunks/chunk_668.wav|la impoɾtanθja ðe estos kuɾsos tambjen raðika en su kapaθiðad paɾa pɾopoɾθjonaɾ aβiliðaðes pɾaktikas ke pweðen aplikaɾse ðiɾektamente en la βiða ðjaɾja
+chunks/chunk_669.wav|poɾ exemplo
+chunks/chunk_67.wav|apliko una estɾatexja ðe imbeɾsjom paɾa aʊmentaɾ las rentaβiliðaðes ðe sus aoros
+chunks/chunk_670.wav|los kuɾsos soβɾe planifikaθjon finanθjeɾa peɾsonal pweðen enseɲaɾ a los paɾtiθipantes komo kɾeaɾ i manteneɾ um pɾesupwesto
+chunks/chunk_671.wav|komo xestjonaɾ i reðuθiɾ ðeʊðas i komo estaβleθeɾ i alkanθaɾ metas ðe aoro
+chunks/chunk_672.wav|los kuɾsos soβɾe imbeɾsjom pweðen ofɾeθeɾ una kompɾensjom pɾofunda ðe los ðifeɾɛntes tipos ðe aktiβos estɾatexjas ðe ðiβeɾsifikaθjon i analisis ðe riesɣo
+chunks/chunk_673.wav|lo ke aʝuða a los indiβiðwos a tomaɾ ðeθisjones ðe imbeɾsjon mas aθeɾtaðas i seɣuɾas
+chunks/chunk_674.wav|aðemas los kuɾsos espeθjaliθaðos tambjem pweðen kuβɾiɾ temas aβanθaðos komo la planifikaθjon fiskal la xestjon de poɾtafoljos i el analisis finanθjeɾo ke son kɾuθjales paɾa akeʎos ke ðeseam pɾofundiθaɾ en el kampo ðe las finanθjas
+chunks/chunk_675.wav|aðemas rekweɾða ke en inteɾnet eksisten mutʃos kuɾsos ɣɾatwitos ke poðɾian seɾβiɾte ðe intɾoðukθjon antes ke ðeθiðas kompɾaɾ alɣum pɾoɣɾama ðe estuðjo mas aβanθaðo
+chunks/chunk_676.wav|bia numeɾo tɾes los liβɾos ðe eðukaθjon finanθjeɾa
+chunks/chunk_677.wav|los liβɾos ðe eðukaθjon finanθjeɾa ofɾeθen estɾatexjas pɾaktikas i pɾoβaðas paɾa mexoɾaɾ la sitwaθjon finanθjeɾa
+chunks/chunk_678.wav|los aʊtoɾes a menuðo kompaɾten sus pɾopjas ekspeɾjɛnθjas i lekθjones apɾendiðas
+chunks/chunk_679.wav|lo ke pweðe pɾopoɾθjonaɾ una ɣia βaljosa i motiβaθjonal
+chunks/chunk_68.wav|un amiɣo ðe maɾia le aβlo soβɾe imbeɾtiɾ su ðineɾo paɾa aθeɾlo kɾeθeɾ
+chunks/chunk_680.wav|estos liβɾos tambjen aβoɾðan temas mas aβanθaðos komo la planifikaθjom paɾa la xuβilaθjon la imbeɾsjon en el meɾkaðo ðe βaloɾes i la kɾeaθjon de rikeθa a laɾɣo plaθo
+chunks/chunk_681.wav|a kontinwaθjon te pɾesentaɾe un listaðo ðe θinkwɛntaiðos liβɾos kon los ke poðɾas konoθeɾ ðifeɾɛntes niβeles ðe la eðukaθjon finanθjeɾa
+chunks/chunk_682.wav|elixe komo minimo tɾes paɾa ke empjeθes tu apɾendiθaxe
+chunks/chunk_683.wav|aki tjenes un resumen konθiso ðe alɣunos ðe los liβɾos ðe finanθas peɾsonales rekomendaðos
+chunks/chunk_684.wav|uno
+chunks/chunk_685.wav|el koðiɣo ðel ðineɾo ðe raɪmond samso motiβa a alkanθaɾ la liβeɾtad finanθjeɾa kon konsexos pɾaktikos paɾa empɾendeɾ i administɾaɾ ðineɾo en el mundo ðixital
+chunks/chunk_686.wav|dos ðineɾo feliθ ðe ken onda
+chunks/chunk_687.wav|eksploɾa la eneɾxia ðel ðineɾo i komo su manexo emoθjonal imfluʝe en nwestɾa feliθiðad finanθjeɾa
+chunks/chunk_688.wav|tɾes el aɾte ðe aθeɾ ðineɾo ðe maɾjo βoɾɣino
+chunks/chunk_689.wav|enseɲa a pensaɾ komo miʎonaɾjo inkoɾpoɾando aβitos korektos paɾa alkanθaɾ la liβeɾtad finanθjeɾa
+chunks/chunk_69.wav|intɾiɣaða maɾia empeθo a imbestiɣaɾ i ðeθiðjo kompɾaɾ alɣunas akθjones ðe una empɾesa lokal en kɾeθimjɛnto
+chunks/chunk_690.wav|kwatɾo
+chunks/chunk_691.wav|un inmweβle al aɲo no aθe ðaɲo ðe kaɾlos ðeβis ɣia βasika paɾa imbeɾtiɾ em bjenes raiθes ðestakando la impoɾtanθja ðel konoθimjɛnto i la aktitud
+chunks/chunk_692.wav|θinko
+chunks/chunk_693.wav|el ekonomista kaʎexeɾo ðe aksel kaɪseɾ pɾesɛnta fundamɛntos ðel sistema kapitalista ðe foɾma akθesiβle kɾitikando la falta ðe sensateθ en la politika ekonomika
+chunks/chunk_694.wav|se
+chunks/chunk_695.wav|dineɾo ðomina el xweɣo ðe toni robβins
+chunks/chunk_696.wav|ofɾeθe sjete pasos paɾa alkanθaɾ la liβeɾtad finanθjeɾa βasaðos en entɾeβistas i estuðjos eksaʊstiβos
+chunks/chunk_697.wav|sjete
+chunks/chunk_698.wav|fɾeakonomiks ðe steβen de leaβitt i stefen oɪ ðabneɾ eksplika la ekonomia a tɾaβes ðel estuðjo ðe los inθentiβos i komo afektan nwestɾas ðeθisjones
+chunks/chunk_699.wav|otʃo el ombɾe mas riko ðe βaβilonja ðe xeoɾxe klaɪson
+chunks/chunk_7.wav|pɾopoɾθjonandote estɾatexjas pɾaktikas i konsexos utiles paɾa ke pweðas manexaɾ tu ðineɾo kon konfjanθa i klaɾiðad
+chunks/chunk_70.wav|tambjen kompɾo βonos ðel ɣoβjeɾno i konsiðeɾo imbeɾtiɾ em bjenes raiθes kompɾando um pekeɲo tereno
+chunks/chunk_700.wav|enseɲa teknikas ðe xestjon del ðineɾo a tɾaβes ðe istoɾjas βasaðas en la antiɣwa βaβilon
+chunks/chunk_701.wav|nweβe
+chunks/chunk_702.wav|la sikoloxia ðel ðineɾo ðe moɾɣan owse
+chunks/chunk_703.wav|imbita a refleksjonaɾ soβɾe nwestɾa relaθjon kon el ðineɾo i ke keɾemos realmente ðe el
+chunks/chunk_704.wav|djɛθ
+chunks/chunk_705.wav|el miʎonaɾjo ðe la pweɾta ðe al laðo ðe tomas stanleɪ i wiʎiam daŋko
+chunks/chunk_706.wav|desmitifika la βiða ðe los miʎonaɾjos i ðestaka la ðisθiplina finanθjeɾa komo klaβe ðe leksis
+chunks/chunk_707.wav|onθe
+chunks/chunk_708.wav|la θjɛnθja ðe aθeɾse riko ðe ɣwalas ɣwato
+chunks/chunk_709.wav|eksplika komo enrikeθeɾse sin neθesiðad ðe kalkulos komplexos enfokandose en el pensamjɛnto i la βisjon
+chunks/chunk_71.wav|lekθjon de imbeɾsjon
+chunks/chunk_710.wav|doθe
+chunks/chunk_711.wav|los sekɾetos ðe la mɛnte miʎonaɾja ðe aɾβ ike
+chunks/chunk_712.wav|kompaɾa mentaliðaðes ðe eksito i fɾakaso ofɾeθjɛndo aβitos i konsexos paɾa alkanθaɾ metas finanθjeɾas
+chunks/chunk_713.wav|tɾeθe
+chunks/chunk_714.wav|la tɾansfoɾmaθjon total ðe su ðineɾo ðe ðaβe ramseɪ
+chunks/chunk_715.wav|metoðo sensato paɾa saliɾ ðe ðeʊðas i alkanθaɾ la salud finanθjeɾa total ðesenmaskaɾando mitos ðel ðineɾo
+chunks/chunk_716.wav|katoɾθe
+chunks/chunk_717.wav|la βia rapiða ðel miʎonaɾjo ðe emexota ðe maɾkos
+chunks/chunk_718.wav|reβela kaminos rapiðos aθja la rikeθa kɾitikando la mentaliðad ðe aθeɾse riko lɛntamente
+chunks/chunk_719.wav|kinθe
+chunks/chunk_72.wav|la imbeɾsjon es usaɾ tu ðineɾo paɾa adkiɾiɾ aktiβos ke pweðaŋ xeneɾaɾ iŋɡɾesos o aʊmentaɾ ðe βaloɾ kon el tjempo
+chunks/chunk_720.wav|pjɛnse i aɣase riko ðe napoleon iʎ
+chunks/chunk_721.wav|basaðo en entɾeβistas a peɾsonas rikas i poðeɾosas enseɲa soβɾe la planifikaθjon i mentaliðad neθesaɾja paɾa alkanθaɾ metas ekonomikas
+chunks/chunk_722.wav|djɛθiseɪs
+chunks/chunk_723.wav|paðɾe riko paðɾe poβɾe ðe roβeɾt kiʝosaki
+chunks/chunk_724.wav|kɾitika el sistema eðukatiβo i eksplika la ðifeɾɛnθja entɾe tɾaβaxaɾ paɾa una empɾesa i konstɾuiɾ aktiβos paɾa iŋɡɾesos konstantes
+chunks/chunk_725.wav|djɛθisjete
+chunks/chunk_726.wav|um pekeɲo empuxon de kass sunsteɪn i ritʃaɾd tal
+chunks/chunk_727.wav|analiθa la sikoloxia ðetɾas ðe nwestɾas elekθjones i komo mexoɾaɾ nwestɾas finanθas peɾsonales
+chunks/chunk_728.wav|djɛθiotʃo
+chunks/chunk_729.wav|el kamino ðe toni robβins i peteɾ malo
+chunks/chunk_73.wav|ʝa sea ke estes ðe βjaxe ðuɾmjɛndo o estuðjando
+chunks/chunk_730.wav|istoɾjas ðe eksito i lekθjones βitales paɾa alkanθaɾ la liβeɾtad finanθjeɾa en kwalkjeɾ etapa ðe la βiða
+chunks/chunk_731.wav|djɛθinweβe
+chunks/chunk_732.wav|la ekonomia en una lekθjon de ɛnɾi ass
+chunks/chunk_733.wav|simplifika la ekonomia a pɾinθipjos βasikos paɾa una kompɾensjon klaɾa i ðuɾaðeɾa
+chunks/chunk_734.wav|ben
+chunks/chunk_735.wav|eðukaθjon finanθjeɾa aβanθaða paɾtjɛndo ðesðe θeɾo ðe ɣɾeɣoɾjo eɾnandeθ
+chunks/chunk_736.wav|exemplos pɾaktikos paɾa apɾendeɾ soβɾe la impoɾtanθja ðe imbeɾtiɾ i loɣɾaɾ la independɛnθja finanθjeɾa
+chunks/chunk_737.wav|beɪntiuno
+chunks/chunk_738.wav|finanθas paɾa un tonto ðe xwan maɾim poθo
+chunks/chunk_739.wav|a tɾaβes ðe una istoɾja entɾeteniða enseɲa los eroɾes komunes en la xestjon de finanθas peɾsonales i komo eβitaɾ
+chunks/chunk_74.wav|maɾia βjo ke imbeɾtiɾ su ðineɾo le ðaβa la posiβiliðad ðe aʊmentaɾ su patɾimonjo a laɾɣo plaθo i reðuθia sus oβliɣaθjones komo empleaða
+chunks/chunk_740.wav|beɪntiðos
+chunks/chunk_741.wav|ke aɣo kon mi ðineɾo
+chunks/chunk_742.wav|de maɾti θaβal
+chunks/chunk_743.wav|ofɾeθe soluθjones paɾa ðiβeɾsas sitwaθjones ekonomikas aʝuðando a xestjonaɾ aoros e imbeɾsjones ðe maneɾa efektiβa
+chunks/chunk_744.wav|beɪntitɾes imbjeɾte en ti ðe natalja ðe santjaɣo
+chunks/chunk_745.wav|kon umoɾ i anekðota se enseɲa komo aoraɾ imbeɾtiɾ i mexoɾaɾ las finanθas peɾsonales en sitwaθjones kotiðjanas
+chunks/chunk_746.wav|beɪntikwatɾo
+chunks/chunk_747.wav|imbeɾtiɾ komo nunka te an kontaðo ðe maɾtin wet
+chunks/chunk_748.wav|istoɾja peɾsonal soβɾe la reɪmbenθjon i apɾoβetʃamjɛnto ðe kambjos ekonomikos paɾa innoβaɾ i pɾospeɾaɾ
+chunks/chunk_749.wav|beɪntiθinko
+chunks/chunk_75.wav|kinto finalmente se peɾkato ke toða su βiða aβia estaðo inmeɾsa en deʊðas i ðeθiðjo poneɾ limites a esto
+chunks/chunk_750.wav|el kamino ðel loβo ðe xoɾðam belfoɾt
+chunks/chunk_751.wav|teknikas ðe peɾswasjon i neɣoθjaθjom paɾa βendeɾ pɾoðuktos θeraɾ tɾatos i ðestakaɾ en el ambito empɾesaɾjal
+chunks/chunk_752.wav|beɪntiseɪs
+chunks/chunk_753.wav|lo ke ðeβes saβeɾ ðel ðineɾo i nunka te enseɲaɾon de ðanilo reɪmond
+chunks/chunk_754.wav|eðukaθjon finanθjeɾa pɾaktika soβɾe kɾeðitos ðeʊðas aoro e imbeɾsjom basaða en dekaðas ðe ekspeɾjɛnθja
+chunks/chunk_755.wav|beɪntisjete
+chunks/chunk_756.wav|otʃɛnta maneɾas ðe aoraɾ mutʃo ðineɾo ðe roðɾiɣo oliβeɪɾa
+chunks/chunk_757.wav|ɡia pɾaktika kon otʃɛnta konsexos paɾa aoraɾ en diβeɾsas aɾeas komo alimentaθjon kompɾas i oθjo
+chunks/chunk_758.wav|beɪntiotʃo
+chunks/chunk_759.wav|niɲo riko niɲo listo ðe roβeɾt kiʝosaki enseɲa a los niɲos konθepːtos finanθjeɾos βasikos i komo pɾepaɾaɾse paɾa el eksito en la eɾa ðe la infoɾmaθjon
+chunks/chunk_76.wav|maɾia tenia alɣunas ðeʊðas
+chunks/chunk_760.wav|beɪntinweβe
+chunks/chunk_761.wav|pekeɲo θeɾðo kapitalista ðe sofia maθias eramjɛntas efektiβas paɾa aoraɾ imbeɾtiɾ i administɾaɾ iŋɡɾesos kon exemplos klaɾos i ðiβeɾtiðos
+chunks/chunk_762.wav|tɾen
+chunks/chunk_763.wav|poɾ ke ese iðjota es riko i ʝo no
+chunks/chunk_764.wav|te roβeɾt ʃami
+chunks/chunk_765.wav|eksploɾa la klaβe ðe la rikeθa amiɣaβle i komo rompeɾ kon las βjexas reɣlas paɾa aθeɾse miʎonaɾjo
+chunks/chunk_766.wav|tɾeɪntaiuno
+chunks/chunk_767.wav|baka puɾpuɾa ðe set ɣodðaɾd
+chunks/chunk_768.wav|enseɲa komo ðestakaɾ en el meɾkaðo meðjante una mentaliðad tɾansfoɾmaðoɾa en maɾketiŋ i pɾoðuktos
+chunks/chunk_769.wav|la ɣananθja es
+chunks/chunk_77.wav|um pɾestamo estuðjantil ke aβia tomaðo paɾa kompletaɾ sus estuðjos i un salðo en su taɾxeta ðe kɾeðito ke usaβa paɾa kompɾaɾ poɾ inteɾnet
+chunks/chunk_770.wav|pɾimeɾo ðe mike mitʃalowikθ konsexos pɾaktikos i estuðjos ðe kasos paɾa ɣanaɾ ðineɾo en los neɣoθjos ðe maneɾa efektiβa tɾeɪntaitɾes ðineɾo i konθjɛnθja a kjen siɾβe nwestɾo ðineɾo
+chunks/chunk_771.wav|de xoan antoni mele
+chunks/chunk_772.wav|refleksjona soβɾe la impoɾtanθja ðe nwestɾos aβitos ðe konsumo i su impakto finanθjeɾo i soθjal
+chunks/chunk_773.wav|tɾeɪntaikwatɾo
+chunks/chunk_774.wav|animal spiɾits te xeoɾxe akeɾlof i roβeɾt stʃiʎeɾ
+chunks/chunk_775.wav|analiθa la imfluɛnθja ðe la sikoloxia umana en la ekonomia i su impoɾtanθja en el kapitalismo ɣloβal
+chunks/chunk_776.wav|tɾeɪntaiθinko
+chunks/chunk_777.wav|nunka te paɾes ðe fil nine
+chunks/chunk_778.wav|istoɾja inspiɾaðoɾa soβɾe el empɾendimjɛnto i los ðesafios en la kɾeaθjon de la maɾka nike
+chunks/chunk_779.wav|tɾeɪntaiseɪs
+chunks/chunk_78.wav|deθiðjo aθeɾ um plam paɾa paɣaɾ estas ðeʊðas lo mas rapiðo posiβle empeθando poɾ las ðe maʝoɾ inteɾes
+chunks/chunk_780.wav|el patɾom bitkoɪn
+chunks/chunk_781.wav|istoɾja ðel ðineɾo i komo el βitkoɪm pweðe ser una soluθjon a las kɾisis ekonomikas tɾeɪntaisjete
+chunks/chunk_782.wav|el βaloɾ ðe las kosas ðe maɾjana matsukato eksamina komo θjeɾtos aktoɾes ekonomikos maksimiθan su pɾoβetʃo meðjante noθjones βorosas ðel βaloɾ tɾeɪntaiotʃo
+chunks/chunk_783.wav|el liðeɾ ke no tenia kaɾɣo ðe roβin ʃaɾpe
+chunks/chunk_784.wav|enseɲa a ðemostɾaɾ liðeɾaθɣo i ðaɾ el maksimo en kwalkjeɾ posiθjom pɾofesjonal o θiɾkunstanθja peɾsonal
+chunks/chunk_785.wav|tɾeɪntainweβe steβe xobs lekθjones ðe liðeɾaθɣo ðe walteɾ i sakson
+chunks/chunk_786.wav|lekθjones ðe liðeɾaθɣo e innoβaθjon del fundaðoɾ ðe apəl βasaðas en su βiða i kareɾa
+chunks/chunk_787.wav|kwaɾɛnta
+chunks/chunk_788.wav|bweno βonito i kaɾito ðe ðaβid ɣomeθ komo konstɾuiɾ i komunikaɾ un difeɾenθjal en el meɾkaðo paɾa no kompetiɾ solo poɾ pɾeθjo kwaɾɛntaiuno
+chunks/chunk_789.wav|elon musk ðe aʃleɪ βanθe
+chunks/chunk_79.wav|aðemas apɾendjo ke las ðeʊðas se usam paɾa konseɣiɾ aktiβos ke poŋɡan dineɾo en tu βolsiʎo i no solo em pasiβos ke konsumen toðo tu ðineɾo
+chunks/chunk_790.wav|istoɾja ðe la asθensjon de musk en el mundo empɾesaɾjal i su impakto en la innoβaθjon
+chunks/chunk_791.wav|kwaɾɛntaiðos
+chunks/chunk_792.wav|emeβea peɾsonal ðe xoʃ kaʊfman
+chunks/chunk_793.wav|konθepːtos esenθjales ðe xestjon empɾesaɾjal akθesiβles sin neθesiðad ðe un kostoso titulo ðe emeβea
+chunks/chunk_794.wav|kwaɾɛntaitɾes
+chunks/chunk_795.wav|inkeβɾantaβle ðe toni robβins
+chunks/chunk_796.wav|estɾatexjas paɾa manteneɾ la paθ mental i pɾospeɾaɾ en un mundo ðe inθeɾtiðumbɾe ekonomika
+chunks/chunk_797.wav|kwaɾɛntaikwatɾo
+chunks/chunk_798.wav|pɾinθipjos ðe raɪ ðaljo
+chunks/chunk_799.wav|pɾinθipjos paɾa el eksito en la βiða i los neɣoθjos ðesaroʎaðos poɾ uno ðe los imbeɾsoɾes mas eksitosos kwaɾɛnta i θinko
+chunks/chunk_8.wav|a lo laɾɣo ðe estos episoðjos te ɣjaɾe paɾa ke pweðas konstɾuiɾ i manteneɾ um pɾesupwesto peɾsonal xestjonaɾ i reðuθiɾ tus ðeʊðas i aoraɾ ðe maneɾa efektiβa paɾa tus metas a koɾto i laɾɣo plaθo
+chunks/chunk_80.wav|lekθjon de ðeʊða
+chunks/chunk_800.wav|pɾinθipjos paɾa emfɾentaɾse al nweβo oɾðen mundjal ðe reɪ ðaljo
+chunks/chunk_801.wav|analisis ðe los θiklos ekonomikos i politikos ke eksplikan el aʊxe i kaiða ðe impeɾjos i naθjones
+chunks/chunk_802.wav|kwaɾɛntaiseɪs
+chunks/chunk_803.wav|el imbeɾsoɾ intelixɛnte ðe βeŋxamiŋ ɡɾaŋxe
+chunks/chunk_804.wav|konsiðeɾaðo uno ðe los mexoɾes liβɾos soβɾe imbeɾsjones enseɲa komo imbeɾtiɾ en la βolsa ðe βaloɾes
+chunks/chunk_805.wav|kwaɾɛntaisjete
+chunks/chunk_806.wav|buffetoloxia ðe maɾi βuffett i ðaβid klaɾk
+chunks/chunk_807.wav|reβela komo ðonde i kwando imbjeɾte su ðineɾo warem buffett
+chunks/chunk_808.wav|uno ðe los imbeɾsoɾes mas eksitosos
+chunks/chunk_809.wav|kwaɾɛntaiotʃo
+chunks/chunk_81.wav|las ðeʊðas son el ðineɾo ke ðeβes a otɾos komo pɾestamos estuðjantiles ipotekas i taɾxetas ðe kɾeðito
+chunks/chunk_810.wav|el tao ðe warem buffett ðe maɾi βuffett i ðaβid klaɾk
+chunks/chunk_811.wav|eksploɾa los aβitos ðe imbeɾsjon de βuffett ðesðe el pɾisma ðel pensamjɛnto i analisis
+chunks/chunk_812.wav|kwaɾɛntainweβe
+chunks/chunk_813.wav|um paso poɾ ðelante ðe waʎ stɾeet ðe peteɾ lintʃ ðeskɾiβe komo los imbeɾsoɾes no pɾofesjonales pweðen supeɾaɾ a los pɾofesjonales usando infoɾmaθjon disponiβle
+chunks/chunk_814.wav|θinkwɛnta
+chunks/chunk_815.wav|repensaɾ la poβɾeθa ðe esteɾ ðuflo i a βiɾxit βaneɾxee
+chunks/chunk_816.wav|kambja la foɾma ðe pensaɾ soβɾe la poβɾeθa i ofɾeθe nweβas peɾspektiβas paɾa aliβjaɾ
+chunks/chunk_817.wav|θinkwɛntaiuno
+chunks/chunk_818.wav|poɾ ke fɾakasan los paises ðe ðaɾon aθemoɣlu i xames roβinson
+chunks/chunk_819.wav|eksamina las raθones ekonomikas i politikas ðetɾas ðel eksito i fɾakaso ðe las naθjones
+chunks/chunk_82.wav|maɾia apɾendjo la impoɾtanθja ðe manexaɾ sus ðeʊðas kwiðaðosamente i paɣaɾ mas ðe lo minimo paɾa reðuθiɾ inteɾeses i liβeɾaɾse ðe ðeʊðas mas rapiðas
+chunks/chunk_820.wav|θinkwɛntaiðos pɾinθipjos ðe ekonomia ðe ɣɾeɣoɾi maŋki
+chunks/chunk_821.wav|aʝuða a kompɾendeɾ el mundo ekonomiko i ser um paɾtiθipante infoɾmaðo en el sektoɾ
+chunks/chunk_822.wav|espeɾo ke este resumen de liβɾos te sea util paɾa ampliaɾ la infoɾmaθjon ke as reθiβiðo kon este kuɾso
+chunks/chunk_823.wav|rekweɾða la liβeɾtad finanθjeɾa no es un destino sino um bjaxe kontinwo
+chunks/chunk_824.wav|kaða pekeɲa akθjon ke tomes oɪ pweðe teneɾ un impakto siɡnifikatiβo en tu futuɾo finanθjeɾo
+chunks/chunk_825.wav|mantɛnte kuɾjoso siɣe apɾendjɛndo i nunka ðexes ðe mexoɾaɾ tu relaθjon kon el ðineɾo
+chunks/chunk_826.wav|kon deðikaθjon i esfweɾθo pweðes alkanθaɾ la liβeɾtad finanθjeɾa i ðisfɾutaɾ ðe una βiða plena i seɣuɾa
+chunks/chunk_827.wav|ɡɾaθjas poɾ eskutʃaɾ finanθas peɾsonales paɾa pɾinθipjantes
+chunks/chunk_828.wav|tu ɣia aθja la liβeɾtad finanθjeɾa
+chunks/chunk_829.wav|espeɾamos ke esta ɣia te aʝa pɾopoɾθjonaðo las eramjɛntas i la inspiɾaθjon neθesaɾjas paɾa tomaɾ el kontɾol ðe tus finanθas peɾsonales
+chunks/chunk_83.wav|una βeθ etʃo toðo esto maɾia no solo apɾendjo a manexaɾ mexoɾ su ðineɾo sino ke tambjen se sintjo mas seɣuɾa i en kontɾol ðe su βiða finanθjeɾa
+chunks/chunk_830.wav|te ðeseamos mutʃo eksito en tu βjaxe finanθjeɾo rekweɾða suskɾiβiɾte al kanal paɾa seɣiɾ ðisfɾutando ðe mas kuɾsos komo este
+chunks/chunk_831.wav|aðemas kompaɾtelo kon tus amiɣos o familjaɾes paɾa ke tambjem pweðan sakaɾ pɾoβetʃo ðe esta infoɾmaθjon
+chunks/chunk_832.wav|em pantaʎa te ðexo un aʊðjoliβɾo rekomendaðo kon los θjen konsexos paɾa empeθaɾ a kɾeaɾ rikeθa
+chunks/chunk_833.wav|nos βemos en una pɾoksima okasjon
+chunks/chunk_84.wav|kompɾendjo ke los iŋɡɾesos ɣastos aoros imbeɾsjones i ðeʊðas som pjeθas klaβe ðel rompekaβeθas finanθjeɾo
+chunks/chunk_85.wav|al final maɾia loɣɾo no solo kumpliɾ sus sweɲos ðe βjaxaɾ i βiβiɾ komoðamente sino tambjen konstɾuiɾ un futuɾo finanθjeɾo soliðo
+chunks/chunk_86.wav|i asi la istoɾja ðe maɾia nos mwestɾa ke kon konoθimjɛnto i planifikaθjon toðos poðemos tomaɾ kontɾol ðe nwestɾas finanθas i βiβiɾ una βiða mas tɾankila i pɾospeɾa
+chunks/chunk_87.wav|sin embaɾɣo toðo esto es posiβle kon una βwena planifikaθjon finanθjeɾa
+chunks/chunk_88.wav|la planifikaθjon finanθjeɾa es el pɾoθeso ðe estaβleθeɾ oβxetiβos ðesaroʎaɾ um plam paɾa alkanθaɾlos i tomaɾ akθjones paɾa loɣɾaɾ esos oβxetiβos sin una planifikaθjon aðekwaða es faθil peɾðeɾ el kontɾol ðe tus finanθas i emfɾentaɾ pɾoβlemas komo ðeʊðas eksθesiβas o falta ðe aoro
+chunks/chunk_89.wav|a kontinwaθjon te ekspliko los kwatɾo βenefiθjos ðe una βwena planifikaθjon finanθjeɾa
+chunks/chunk_9.wav|aðemas eksploɾaɾemos xuntos los fundamɛntos ðe la imbeɾsjom paɾa ke pweðas aθeɾ kɾeθeɾ tu patɾimonjo ðe maneɾa intelixɛnte
+chunks/chunk_90.wav|uno
+chunks/chunk_91.wav|te ða kontɾol
+chunks/chunk_92.wav|te peɾmite teneɾ un kontɾol klaɾo ðe tus iŋɡɾesos i ɣastos
+chunks/chunk_93.wav|dos te peɾmite konsoliðaɾ oβxetiβos klaɾos la planifikaθjon te aʝuða a ðefiniɾ i alkanθaɾ metas finanθjeɾas komo kompɾaɾ una kasa aθeɾ um bjaxe soɲaðo o aoraɾ paɾa la xuβilaθjon
+chunks/chunk_94.wav|tɾes
+chunks/chunk_95.wav|te ða seɣuɾiðað i estaβiliðad la βwena planifikaθjon te pɾepaɾa paɾa impɾeβistos i emeɾxɛnθjas kɾeando un koltʃon finanθjeɾo
+chunks/chunk_96.wav|kwatɾo
+chunks/chunk_97.wav|te peɾmite teneɾ una mentaliðad finanθjeɾa ɣanaðoɾa
+chunks/chunk_98.wav|teneɾ una mentaliðad finanθjeɾa aðekwaða es kɾuθjal paɾa el eksito a laɾɣo plaθo
+chunks/chunk_99.wav|esto implika aðopːtaɾ una aktitud positiβa aθja el manexo ðel ðineɾo i estaɾ ðispwesto a apɾendeɾ i mexoɾaɾ kontinwamente
