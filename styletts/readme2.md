@@ -14,7 +14,7 @@ conda activate tts
 git clone https://github.com/felipetrujillot/dataset
 
 
-pip install click pandas matplotlib tensorboard SoundFile torchaudio munch torch pydub pyyaml librosa git+https://github.com/resemble-ai/monotonic_align.git
+pip install click pandas matplotlib tensorboard SoundFile torchaudio munch torch pydub pyyaml librosa git+https://github.com/resemble-ai/monotonic_align.git ipython
 
 
 cd styletts
