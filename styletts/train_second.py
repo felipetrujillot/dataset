@@ -168,8 +168,8 @@ def main(config_path):
             texts, input_lengths, mels, mel_input_length = batch
 
             with torch.no_grad():
-                mask = length_to_mask(mel_input_length // (2 ** model.text_aligner.n_down)).to('mps')
-                mel_mask = length_to_mask(mel_input_length).to('mps')
+                mask = length_to_mask(mel_input_length // (2 ** model.text_aligner.n_down)).to('cuda')
+                mel_mask = length_to_mask(mel_input_length).to('cuda')
                 text_mask = length_to_mask(input_lengths).to(texts.device)
 
                 _, _, s2s_attn_feat = model.text_aligner(mels, mask, texts)
@@ -224,8 +224,8 @@ def main(config_path):
 
                 mel_input_length = torch.floor(ts.scale * mel_input_length) // 2 * 2 
 
-                mask = length_to_mask(mel_input_length // (2 ** model.text_aligner.n_down)).to('mps')
-                mel_mask = length_to_mask(mel_input_length).to('mps')
+                mask = length_to_mask(mel_input_length // (2 ** model.text_aligner.n_down)).to('cuda')
+                mel_mask = length_to_mask(mel_input_length).to('cuda')
                 text_mask = length_to_mask(input_lengths).to(texts.device)
                 
                 # might have misalignment due to random scaling
@@ -373,7 +373,7 @@ def main(config_path):
                 batch = [b.to(device) for b in batch]
                 texts, input_lengths, mels, mel_input_length = batch
                 with torch.no_grad():
-                    mask = length_to_mask(mel_input_length // (2 ** model.text_aligner.n_down)).to('mps')
+                    mask = length_to_mask(mel_input_length // (2 ** model.text_aligner.n_down)).to('cuda')
                     text_mask = length_to_mask(input_lengths).to(texts.device)
 
                     _, _, s2s_attn_feat = model.text_aligner(mels, mask, texts)
