@@ -9,6 +9,7 @@ import torch
 import click
 import warnings
 warnings.simplefilter('ignore')
+from monotonic_align import mask_from_lens, maximum_path
 
 # load packages
 import random
