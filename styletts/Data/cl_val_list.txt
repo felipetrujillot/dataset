@@ -1,6 +1,15 @@
-chunks/chunk_815.wav|repensaɾ la poβɾeθa ðe esteɾ ðuflo i a βiɾxit βaneɾxee
-chunks/chunk_820.wav|θinkwɛntaiðos pɾinθipjos ðe ekonomia ðe ɣɾeɣoɾi maŋki
-chunks/chunk_821.wav|aʝuða a kompɾendeɾ el mundo ekonomiko i ser um paɾtiθipante infoɾmaðo en el sektoɾ
-chunks/chunk_822.wav|espeɾo ke este resumen de liβɾos te sea util paɾa ampliaɾ la infoɾmaθjon ke as reθiβiðo kon este kuɾso
-chunks/chunk_823.wav|rekweɾða la liβeɾtad finanθjeɾa no es un destino sino um bjaxe kontinwo
-chunks/chunk_824.wav|kaða pekeɲa akθjon ke tomes oɪ pweðe teneɾ un impakto siɡnifikatiβo en tu futuɾo finanθjeɾo
+chunks/chunk_976.wav|el estˈaðo βˌelaɾˈa poɾ ˈun ˈuso rˌasonˈaβle ðe las ˈaɣwas. las ˌaʊtoɾˌisasjˈones ðe ˈuso ðe ˈaɣwa seɾˈan ˌotoɾɣˈaðas poɾ la axˈɛnsja nˌasjonˈal ðel ˈaɣwa. 
+chunks/chunk_977.wav|de kaɾˈakteɾ ˌinkomeɾsjˈaβle kˌonseðˈiðas pasˈandose en la ðˌisponˌiβiliðˈað ˌefektˈiβa ðe las ˈaɣwas. 
+chunks/chunk_978.wav|i ˌoβliɣˈaɾan al tˌitulˈaɾ al ˈuso ke xˌustifˈike su ˌotoɾɣamjˈɛnto. 
+chunks/chunk_98.wav|el estˈaðo ðˈeβe rˌespetˈaɾ, pɾˌomoβˈeɾ, pɾˌotexˈeɾ i ɣˌaɾantisˈaɾ el plˈeno ˌexeɾsˈisjo i sˌatisfaksjˈon de los ðeɾˈetʃos fˌundamentˈales sin dˌiskɾimˌinasjˈon, asˈi kˌomo ˌaðopːtˈaɾ las meðˈiðas nˌesesˈaɾjas pˌaɾa ˌeliminˈaɾ tˈoðos los oβstˈakulos ke ˌentoɾpˈeskan su rˌealˌisasjˈon. 
+chunks/chunk_980.wav|el estˈaðo ˌaseɣˌuɾaɾˈa ˈun sistˈema ðe ɣˌoβeɾnˈansa ðe las ˈaɣwas pˌaɾtisˌipatˈiβo i ðˌesentɾˌalisˈaðo a tɾaβˈes ðel manˈexo ˌinteɣɾˈaðo ðe kwˈɛntos. 
+chunks/chunk_982.wav|los konsˈexos ðe kwˈɛnka seɾˈan los rˌesponsˈaβles ðe la ˌadminˌistɾasjˈon de las ˈaɣwas, sim peɾxwˈisjo ðe la sˌupeɾβisjˈon i ðe las ˌatɾiβusjˈones ðe la axˈɛnsja nˌasjonˈal ðel ˈaɣwa i ðe las kˌompetˈɛnsjas ˌasiɡnˈaðas a ˈotɾas ˌinstitusjˈones. 
+chunks/chunk_983.wav|la lˈeɪ rˌeɣulaɾˈa las ˌatɾiβusjˈones ðel fˌunsjonamjˈɛnto i la kˌomposisjˈon de los konsˈexos. 
+chunks/chunk_984.wav|ˈestos ðˈeβen ˌinteɣɾˈaɾse, a lo mˈenos, poɾ los tˌitulˈaɾes ðe ˌaʊtoɾˌisasjˈones ðe ˈuso ðe ˈaɣwa, la sˌosjeðˈad siβˈil i las ˌentiðˈaðes tˌeritoɾjˈales kom pɾesˈɛnsja en las rˌespektˈiβas kwˈɛnkas, rˌeβelˈando ke niŋɡˈun aktˈoɾ pwˈeða ˌalkansˈaɾ el kontɾˈol poɾ sˈi sˈolo. 
+chunks/chunk_985.wav|los konsˈexos poðɾˈan kˌooɾðinˈaɾse i ˌasosjˈaɾse kwˌando sˈea pˌeɾtinˈɛnte. en akˈejjos kˈasos en ke nˈo se kˌonstitˈuʝa ˈun konsˈexo, la ˌadminˌistɾasjˈon seɾˈa ðˌeteɾminˈaða poɾ la axˈɛnsja nˌasjonˈal ðel ˈaɣwa. 
+chunks/chunk_987.wav|la axˈɛnsja nˌasjonˈal ðel ˈaɣwa ˈes ˈun ˈoɾɣano aʊtˈonomo, kom pˌeɾsonˌaliðˈad xuɾˈiðika i pˌatɾimˈonjo pɾˈopjo, ke funsjˈona ðe fˈoɾma ðˌeskonsentɾˈaða i estˈa ˌenkaɾɣˈaða ðe ˌaseɣuɾˈaɾ el ˈuso sˌostenˈiβle ðel ˈaɣwa pˌaɾa las xˌeneɾasjˈones pɾesˈɛntes i futˈuɾas, el aksˈeso al ðeɾˈetʃo umˈano al ˈaɣwa i el sˌaneamjˈɛnto i la kˌonseɾβasjˈon i pɾˌeseɾβasjˈon de sus ˌekosistˈemas ˌasosjˈaðos. 
+chunks/chunk_988.wav|pˌaɾa ˈejjo, se enkˈaɾɣa ðe rˌekopilˈaɾ ˌinfoɾmasjˈon, kˌooɾðinˈaɾ, dˌiɾixˈiɾ i fˌiskalisˈaɾ la ˌaktwasjˈon de los ˈoɾɣanos ðel estˈaðo kon kˌompetˈɛnsjas en matˈeɾja ˈiðɾika i ðe los pˌaɾtikulˈaɾes en su kˈaso. 
+chunks/chunk_989.wav|la axˈɛnsja nˌasjonˈal ðel ˈaɣwa tjˈene las siɣjˈɛntes ˌatɾiβusjˈones. 
+chunks/chunk_99.wav|pˌaɾa su pɾˌoteksjˈon, las peɾsˈonas ɣˈosan de ɣˌaɾantˈias ˌefikˈases, ˌopoɾtˈunas, pˌeɾtinˈɛntes i ˌuniβeɾsˈales. 
+chunks/chunk_991.wav|lˌiðeɾˈaɾ i kˌooɾðenˈaɾ a los ˌoɾɣanˈismos kon kˌompetˈɛnsja en matˈeɾja ˈiðɾika. 
+chunks/chunk_993.wav|belˈaɾ poɾ el kˌumplimjˈɛnto ðe la polˈitika nˌasjonˈal ˈiðɾika ke ˌestaβlˈeska la ˌaʊtoɾiðˈad rˌespektˈiβa. 
