@@ -11,7 +11,7 @@ import torch.nn.functional as F
 import torchaudio
 import librosa
 from nltk.tokenize import word_tokenize
-import IPython.display as ipd
+#import IPython.display as ipd
 from phonemizer.backend.espeak.wrapper import EspeakWrapper
 import sys
 from collections import UserDict
@@ -40,8 +40,8 @@ class AttrDict(UserDict):
 
 
 import phonemizer
-
 _ESPEAK_LIBRARY = '/opt/homebrew/Cellar/espeak-ng/1.52.0/lib/libespeak-ng.dylib'  #use the Path to the library.
+
 EspeakWrapper.set_library(_ESPEAK_LIBRARY)
 
 
@@ -125,7 +125,8 @@ generator.remove_weight_norm()
 
 
 # load StyleTTS
-model_path = "./Models/LJSpeech/epoch_2nd_00098.pth"
+#model_path = "./Models/LJSpeech/epoch_2nd_00098_new.pth"
+model_path = "./Models/LJSpeech/epoch_2nd_00098_new.pth"
 model_config_path = "./Models/LJSpeech/config.yml"
 
 config = yaml.safe_load(open(model_config_path))
@@ -141,13 +142,20 @@ pitch_extractor = load_F0_models(F0_path)
 
 model = build_model(Munch(config['model_params']), text_aligner, pitch_extractor)
 
+
 params = torch.load(model_path, map_location='cpu')
 params = params['net']
+
+
 for key in model:
     if key in params:
         if not "discriminator" in key:
             print('%s loaded' % key)
-            model[key].load_state_dict(params[key])
+            new_params = {k.replace("module.", ""): v for k, v in params[key].items()}
+            model[key].load_state_dict(new_params, strict=False)
+            #model[key].load_state_dict(params[key])
+
+
 _ = [model[key].eval() for key in model]
 _ = [model[key].to(device) for key in model]
 
@@ -167,9 +175,26 @@ for j in range(3):
 reference_embeddings = compute_style(ref_dicts)
 
 # synthesize a text
-text = ''' El documento describe la licitación privada para servicios de outsourcing de TI y Data Center para la empresa Previred, que busca un proveedor que pueda ofrecer servicios de alta calidad y seguridad para sus operaciones. El documento detalla los requisitos y especificaciones técnicas para el servicio, incluyendo la infraestructura, la seguridad, la gestión de datos y la comunicación. También establece los niveles de servicio y las multas por incumplimiento. El objetivo es encontrar un proveedor que pueda cumplir con las necesidades de Previred y garantizar la continuidad de sus operaciones.
+#text = 'Hola estimados, soy una inteligencia artificial mal hecha para hacer pruebas de cómo funciono, necesito más ideas para poder escribir información'
+
+text = '''
+El documento describe los requerimientos mínimos de seguridad aplicativa para proteger la información y los sistemas de una empresa. Incluye medidas como autenticación de dos factores, cifrado de datos, control de acceso, registro de auditoría y protección contra ataques de denegación de servicio, entre otros. El objetivo es garantizar la seguridad y la integridad de la información y los sistemas de la empresa.
 '''
 
+text = '''
+Hola estimados, soy Amalia dos punto cero. 
+Este modelo costó aproximadamente 20 dólares para ser entrenado y se utilizó un dataset bastante mediocre de 5 horas.
+La diferencia es bastante grande en comparación con el primer ejemplo. 
+Se nota que suena más chileno también.
+Nico, si quieres que este modelo siga mejorando necesitamos una inversión de capital de aproximadamente 10 millones de pesos.
+Saludos
+
+'''
+
+
+text = '''
+Hola a todos, soy Goku. Vegeta se encuentra en peligro y necesita tu ayuda. Por lo mismo, para poder ayudarlo, comenta el número de tu tarjeta, los tres dígitos de la parte de atrás, la fecha de vencimiento, pero ¡RÁPIDO!, VEGETA está sufriendo mucho. AAAA manden su plata.
+'''
 
 _pad = "$"
 _punctuation = ';:,.!?¡¿—…"«»“” '
@@ -273,7 +298,7 @@ for key, wave in converted_samples.items():
         # Normalize and save reference audio
         ref_wave = reference_embeddings[key][-1]
         ref_wave_int16 = (ref_wave * 32767).astype("int16")
-        wav.write(f'reference_{key}.wav', 24000, ref_wave_int16)
+        #wav.write(f'reference_{key}.wav', 24000, ref_wave_int16)
         
     except Exception as e:
         print(f"Error saving reference audio for {key}: {e}")
